@@ -1,0 +1,4014 @@
+{
+	"Curebay": {
+		"Curebay_payment_option": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.Spinner[@index='1']"
+		},
+		"Curebay_payment_optionasonetime": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.CheckedTextView[@text='One Time']"
+		},
+		"Curebay_your_orderpage": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='SAC Code: 998311']"
+		},
+		"Curebay_doctorname": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Doctor Name']"
+		},
+		"Curebay_doctordate": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Date']"
+		},
+		"Curebay_doctorconsulttype": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Consultation Type']"
+		},
+		"Curebay_billingaddress_firstname": {
+			"locatorType": "Id",
+			"locatorValue": "first_name"
+		},
+		"Curebay_billingaddress_lastname": {
+			"locatorType": "Id",
+			"locatorValue": "last_name"
+		},
+		"Curebay_billingaddress_addressline1": {
+			"locatorType": "Id",
+			"locatorValue": "line1"
+		},
+		"Curebay_billingaddress_addressline2": {
+			"locatorType": "Id",
+			"locatorValue": "line2"
+		},
+		"Curebay_billingaddress_city": {
+			"locatorType": "Id",
+			"locatorValue": "city"
+		},
+		"Curebay_billingaddress_zip": {
+			"locatorType": "Id",
+			"locatorValue": "zip"
+		},
+		"Curebay_billingaddress_state": {
+			"locatorType": "Id",
+			"locatorValue": "state"
+		},
+		"Curebay_billingaddress_country": {
+			"locatorType": "Id",
+			"locatorValue": "city"
+		},
+		"Curebay_Login_signup": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Login / Sign-up']"
+		},
+		"Curebay_Login_username": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.EditText[@text='Email or Mobile Number']"
+		},
+		"Curebay_Login_password": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.EditText[@text='Enter Password']"
+		},
+		"Curebay_Login_next": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Next']"
+		},
+		"Curebay_Login_next1": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.Button[@text='Next']"
+		},
+		"Curebay_verify_Dashboard": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Dashboard']"
+		},
+		"Curebay_Appointments": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Appointments']"
+		},
+		"Curebay_previousAppointments": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Previous Appointment']"
+		},
+		"Curebay_upcomingAppointments": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Upcoming Appointment']"
+		},
+		"Curebay_motherpatientname": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Mother Mam']"
+		},
+		"Curebay_verifyvideoconsultation": {
+			"locatorType": "Xpath",
+			"locatorValue": "(//android.widget.TextView[@text='Video Consultation'])[1]"
+		},
+		"Curebay_fpatientdropdown": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Father sir']"
+		},
+		"Curebay_Requesttochange": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Request for change']"
+		},
+		"Curebay_selectdate": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Select Date']"
+		},
+		"Curebay_date18": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.view.View[@text='18']"
+		},
+		"Curebay_selectok": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.Button[@text='OK']"
+		},
+		"Curebay_selectsubmit": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='SUBMIT']"
+		},
+		"Curebay_error": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Contact Administrator']"
+		},
+		"Curebay_errorok": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.Button[@text='OK']"
+		},
+		"Curebay_navigatesback": {
+			"locatorType": "Xpath",
+			"locatorValue": "(//android.widget.ImageView[@index='0'])[1]"
+		},
+		"Curebay_childsir": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='child sir']"
+		},
+		"Curebay_Generalhealth": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='General Health Care']"
+		},
+		"Curebay_oralhealth": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Ortho Care']"
+		},
+		"Curebay_sister": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='sister madam']"
+		},
+		"Curebay_tiger": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Tiger sir']"
+		},
+		"Curebay_fatherinlaw": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Father inlaw']"
+		},
+		"Curebay_motherinlaw": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='mother inlaw']"
+		},
+		"Curebay_Hsbjbg": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Hsj Bdj']"
+		},
+		"Curebay_othermadam": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='otheeer madam']"
+		},
+		"Curebay_motherinlawkumar": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='motherinlaw kumar']"
+		},
+		"Curebay_sisterinsomi": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='sisterin somi']"
+		},
+		"Curebay_sissir": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='sis sir']"
+		},
+		"Curebay_Test123": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Test 123 Kr']"
+		},
+		"Curebay_childself": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='child Self']"
+		},
+		"Curebay_temperature": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Temperature']"
+		},
+		"Curebay_heartrate": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='HeartRate']"
+		},
+		"Curebay_Spo2": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='SPo2']"
+		},
+		"Curebay_verify_Avg": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='99.60']"
+		},
+		"Curebay_calender": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.ImageView[@index='1']"
+		},
+		"Curebay_calenderdare11": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.view.View[@text='11']"
+		},
+		"Curebay_verify_Avg1": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='82.80']"
+		},
+		"Curebay_verify_Avg2": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='92.60']"
+		},
+		"Curebay_viewalldashbd": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='View All Vitals']"
+		},
+		"Curebay_BMI": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='BMI']"
+		},
+		"Curebay_prescription": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Prescriptions']"
+		},
+		"Curebay_viewall": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Prescriptions']"
+		},
+		"Curebay_careplantxt": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Select Care Plans :']"
+		},
+		"Curebay_myappointmenttxt": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='My Appointments']"
+		},
+		"Curebay_dashboardtxtmsg": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Select a member to see their']"
+		},
+		"Curebay_dashboardtxtmsg1": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='health status:']"
+		},
+		"Curebay_prescriptiontxt1": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Prescription']"
+		},
+		"Curebay_symptoms": {
+			"locatorType": "Xpath",
+			"locatorValue": "(//android.widget.TextView[@text='Symptoms'])[1]"
+		},
+		"Curebay_allery": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Any Allergy']"
+		},
+		"Curebay_nxtconsult": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Next Consultation Date']"
+		},
+		"Curebay_nxtconsultviewlink": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='View Prescription']"
+		},
+		"Curebay_Downloadlink": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Download Prescription']"
+		},
+		"Curebay_Labreport": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Lab Reports']"
+		},
+		"Curebay_testname": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Test Name']"
+		},
+		"Curebay_labname": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Lab Name']"
+		},
+		"Curebay_orderid": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Order Id']"
+		},
+		"Curebay_viewalllab": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='View Lab Report']"
+		},
+		"Curebay_labdownload": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Download']"
+		},
+		"Curebay_Healthrecord": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Health Record']"
+		},
+		"Curebay_doctorconsult1": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Doctors Consultation']"
+		},
+		"Curebay_doctorupcome": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Upcoming']"
+		},
+		"Curebay_doctorpast": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Past']"
+		},
+		"Curebay_doctorviewall": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='View All']"
+		},
+		"Curebay_notifications": {
+			"locatorType": "Xpath",
+			"locatorValue": "(//android.widget.ImageView[@index='0'])[3]"
+		},
+		"Curebay_notificationsback": {
+			"locatorType": "Xpath",
+			"locatorValue": "(//android.widget.ImageButton[@index='0'])[1]"
+		},
+		"Curebay_medicalplandash": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='My Medical Plans']"
+		},
+		"Curebay_medicalreview": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Review']"
+		},
+		"Curebay_signup": {
+			"locatorType": "Xpath",
+			"locatorValue": "(//android.widget.ImageView[@index='0'])[5]"
+		},
+		"Curebay_datesee": {
+			"locatorType": "Xpath",
+			"locatorValue": "(//android.widget.TextView[@text='20/07/2023'])[1]"
+		},
+		"Curebay_cart": {
+			"locatorType": "Xpath",
+			"locatorValue": "(//android.widget.ImageView[@index='0'])[4]"
+		},
+		"Curebay_carttxt": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Choose health care plan for your family member']"
+		},
+		"Curebay_cartradio": {
+			"locatorType": "Xpath",
+			"locatorValue": "(//android.view.ViewGroup[@index='0'])[13]"
+		},
+		"Curebay_cartnxt": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Next']"
+		},
+		"Curebay_cartyourtxt": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='YourCart']"
+		},
+		"Curebay_cartpricepermnt": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Price: $69 / Per Month']"
+		},
+		"Curebay_cartselectmnt": {
+			"locatorType": "Xpath",
+			"locatorValue": "(//android.widget.TextView[@text='Monthly'])[1]"
+		},
+		"Curebay_cartselectmntdp": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Monthly']"
+		},
+		"Curebay_cartselectonetimedp": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='One Time']"
+		},
+		"Curebay_carteffectivedate": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='09/08/2023']"
+		},
+		"Curebay_cartpaymentdetails": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Payment Details']"
+		},
+		"Curebay_cartpaymentplan": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Womens Health Care:']"
+		},
+		"Curebay_cartpaymentplanprice": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='$ 69']"
+		},
+		"Curebay_cartpaymenttotalprice": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='$ 69']"
+		},
+		"Curebay_cartcheckedout": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Checkout']"
+		},
+		"Curebay_cartproceed": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.Button[@text='Proceed To Checkout ']"
+		},
+		"Curebay_cartfirstname": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.EditText[@resource-id='first_name']"
+		},
+		"Curebay_cartlastname": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.EditText[@resource-id='last_name']"
+		},
+		"Curebay_cartaddress1": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.EditText[@resource-id='line1']"
+		},
+		"Curebay_cartaddress2": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.EditText[@resource-id='line2']"
+		},
+		"Curebay_cartaddress3": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.EditText[@resource-id='Address Line3 (Optional)']"
+		},
+		"Curebay_cartcity": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.EditText[@resource-id='city']"
+		},
+		"Curebay_cartzip": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.EditText[@resource-id='zip']"
+		},
+		"Curebay_cartstate": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.EditText[@resource-id='state']"
+		},
+		"Curebay_cartpickanopt": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.Spinner[@text='Pick an option']"
+		},
+		"Curebay_cartalbania": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.CheckedTextView[@text='Albania']"
+		},
+		"Curebay_cartgenaral": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='General Health Care']"
+		},
+		"Curebay_cartdiabetes": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Diabetes Care']"
+		},
+		"Curebay_cartcardiac": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Cardiac Care']"
+		},
+		"Curebay_cartortho": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Ortho Care']"
+		},
+		"Curebay_cartgenaralwomen": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Womens Health Care']"
+		},
+		"Curebay_dashlabreports": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Lab Reports']"
+		},
+		"Curebay_dashlabreptestname": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Test Name: lab report']"
+		},
+		"Curebay_dashlabbiewall": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='View All Lab Reports']"
+		},
+		"Curebay_dashlabbiewalllink": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='View Lab Report']"
+		},
+		"Curebay_myprofile": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='My Profile']"
+		},
+		"Curebay_seeprofile": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='See Profiles']"
+		},
+		"Curebay_addmemprofile": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Add Member']"
+		},
+		"Curebay_addmemprofileaftertxt": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='services near to your parents area.']"
+		},
+		"Curebay_addmemdetails": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Add Member Details']"
+		},
+		"Curebay_checkmedicare": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Check medicare']"
+		},
+		"Curebay_profilepincode": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.EditText[@text='Enter Pincode']"
+		},
+		"Curebay_pincodecheck": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Check']"
+		},
+		"Curebay_pincodeplease6digit": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Please enter 6 digit pincode']"
+		},
+		"Curebay_pincodefirstname": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.EditText[@text='firstName']"
+		},
+		"Curebay_pincodelastname": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.EditText[@text='lastName']"
+		},
+		"Curebay_pincodecalendericon": {
+			"locatorType": "Xpath",
+			"locatorValue": "(//android.widget.ImageView[@index='0'])[4]"
+		},
+		"Curebay_pincodecalenderdate4": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.view.View[@text='4']"
+		},
+		"Curebay_pincodecalenderok": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.Button[@text='OK']"
+		},
+		"Curebay_pincodemobilenumber": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.EditText[@text='Phone Number']"
+		},
+		"Curebay_pincodeemergency": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.EditText[@text='Emergency Contact Number']"
+		},
+		"Curebay_pincodemail": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.EditText[@text='Email Address']"
+		},
+		"Curebay_pincodaddress": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.EditText[@text='Enter Address']"
+		},
+		"Curebay_pincodlocality": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.EditText[@text='Enter Locality/Town']"
+		},
+		"Curebay_pincodemempincode": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.EditText[@text='Enter Pincode']"
+		},
+		"Curebay_pincodecity": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.EditText[@text='Enter City']"
+		},
+		"Curebay_pincodestate": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.EditText[@text='Enter State']"
+		},
+		"Curebay_pincodenearbyeclinic": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.EditText[@index='29']"
+		},
+		"Curebay_pincodesubmit": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Save Member']"
+		},
+		"Curebay_pincodeselectblood": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Select']"
+		},
+		"Curebay_pincodeselectbloodab": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='AB+']"
+		},
+		"Curebay_pincodemother": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Mother']"
+		},
+		"Curebay_pincodesalutation": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Mr']"
+		},
+		"Curebay_pincodesalutationMrs": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Mrs']"
+		},
+		"Curebay_pincodebloodoneg": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='O-']"
+		},
+		"Curebay_pincodefather": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Father']"
+		},
+		"Curebay_pincodemotherinlaw": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Mother in law']"
+		},
+		"Curebay_pincodeothers": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Others']"
+		}
+	},
+	"myprofile_locators": {
+		"email_txt": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Email / Mobile Number']/following-sibling::android.widget.EditText"
+		},
+		"password_txt": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.EditText[@text='Enter Password']"
+		},
+		"next_btn": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Next']"
+		},
+		"alert_message": {
+			"locatorType": "id",
+			"locatorValue": "android:id/message"
+		},
+		"phonum_txt": {
+			"locatorType": "xPath",
+			"locatorValue": "(//android.widget.EditText[@index='0'])[1]"
+		},
+		"careplans_page_before_login": {
+			"locatorType": "xPath",
+			"locatorValue": "//android.widget.TextView[@text='Care Plans']"
+		},
+		"login/signup_btn": {
+			"locatorType": "xPath",
+			"locatorValue": "//android.widget.TextView[@text='Login / Sign-up']"
+		},
+		"login_visible": {
+			"locatorType": "xPath",
+			"locatorValue": "//android.widget.TextView[@text='Login']"
+		},
+		"login_with_num": {
+			"locatorType": "xPath",
+			"locatorValue": "(//android.widget.EditText[@index='0'])[1]"
+		},
+		"submit_btn": {
+			"locatorType": "xPath",
+			"locatorValue": "//android.widget.TextView[@text='Submit']"
+		},
+		"otp_num_1": {
+			"locatorType": "xPath",
+			"locatorValue": "//*[@resource-id='otp_input_0']"
+		},
+		"otp_num_2": {
+			"locatorType": "xPath",
+			"locatorValue": "//*[@resource-id='otp_input_1']"
+		},
+		"otp_num_3": {
+			"locatorType": "xPath",
+			"locatorValue": "//*[@resource-id='otp_input_2']"
+		},
+		"otp_num_4": {
+			"locatorType": "xPath",
+			"locatorValue": "//*[@resource-id='otp_input_3']"
+		},
+		"otp_num_5": {
+			"locatorType": "xPath",
+			"locatorValue": "//*[@resource-id='otp_input_4']"
+		},
+		"otp_num_6": {
+			"locatorType": "xPath",
+			"locatorValue": "//*[@resource-id='otp_input_5']"
+		},
+		"10_digit_error_msg": {
+			"locatorType": "id",
+			"locatorValue": "android:id/alertTitle"
+		},
+		"invalid_emailadress_pop_up": {
+			"locatorType": "xPath",
+			"locatorValue": "//android.widget.TextView[@text='Please enter a valid email address']"
+		},
+		"ok_btn": {
+			"locatorType": "xPath",
+			"locatorValue": "//android.widget.Button[@text='OK']"
+		},
+		"errormessage_of_invalid_otp": {
+			"locatorType": "id",
+			"locatorValue": "android:id/message"
+		},
+		"signup_btn": {
+			"locatorType": "xPath",
+			"locatorValue": "//android.widget.TextView[@text='Sign Up']"
+		},
+		"name_for_sign_up": {
+			"locatorType": "xPath",
+			"locatorValue": "//android.widget.EditText[@text='Name']"
+		},
+		"country_dropdown_btn": {
+			"locatorType": "xPath",
+			"locatorValue": "//android.widget.ImageView[@index='1']"
+		},
+		"country_send_keys_drop_down": {
+			"locatorType": "xPath",
+			"locatorValue": "//android.widget.EditText[@text='Enter country name']"
+		},
+		"select_country_in_drop_down": {
+			"locatorType": "xPath",
+			"locatorValue": "//android.widget.TextView[@text='Canada (+1)']"
+		},
+		"phone_number_txt": {
+			"locatorType": "xPath",
+			"locatorValue": "//android.widget.EditText[@text='Phone Number']"
+		},
+		"email_txt_sign_up": {
+			"locatorType": "xPath",
+			"locatorValue": "//android.widget.EditText[@text='Email Address']"
+		},
+		"Whatsappnum_txt_signup": {
+			"locatorType": "xPath",
+			"locatorValue": "//android.widget.EditText[@text='WhatsApp Number']"
+		},
+		"whatssapp_num_checkbox": {
+			"locatorType": "xPath",
+			"locatorValue": "//android.widget.TextView[@text='WhatsApp Number*']/following-sibling::android.view.ViewGroup/android.view.ViewGroup[@focusable='false']"
+		},
+		"password": {
+			"locatorType": "xPath",
+			"locatorValue": "//android.widget.EditText[@text='Enter Password']"
+		},
+		"confirm_password": {
+			"locatorType": "xPath",
+			"locatorValue": "//android.widget.EditText[@text='Confirm Password']"
+		},
+		"succesful_msg": {
+			"locatorType": "id",
+			"locatorValue": "android:id/message"
+		}
+	},
+	"Curebay_ScheduleModule": {
+		"Curebay_Login_username": {
+			"locatorType": "xpath",
+			"locatorValue": "//android.widget.EditText[@text='Email or Mobile Number']"
+		},
+		"Curebay_Login_password": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.EditText[@text='Enter Password']"
+		},
+		"Curebay_Login_next": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Next']"
+		},
+		"Curebay_verify_Dashboard": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Dashboard']"
+		},
+		"Curebay_schedulemodule": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.view.View[@index='3']"
+		},
+		"Schedule_Doctor_Consultation": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Doctor Consultation']"
+		},
+		"Schedule_Nursing": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.ImageView[@index='1'])[3]"
+		},
+		"Schedule_Nursingtxt": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Nursing']"
+		},
+		"Schedule_Doctor_Consultation_Txt": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Doctor Consultation']"
+		},
+		"Schedule_Doctor_Name": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Dr. Nithya Devi']"
+		},
+		"Schedule_Doctor_Availabilitytime": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@index='3'])[1]"
+		},
+		"Schedule_Doctor_frequency": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Frequency- YEARLY']"
+		},
+		"Schedule_Doctor_status": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Status- Scheduled']"
+		},
+		"Schedule_Doctor_qualification": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='MBBS']"
+		},
+		"Schedule_Doctor_consultation_closed": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.ImageView[@index='0'])[6]"
+		},
+		"Schedule_Doctor_nursing_date": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Dates']"
+		},
+		"Schedule_Doctor_nursing_frequency": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@index='1'])[1]"
+		},
+		"Schedule_Doctor_nursing_status": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@index='2'])[2]"
+		},
+		"Schedule_LabTest_trackerresult_Txt": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Lab Test- Track Results']"
+		},
+		"Schedule_Labtest_TrackerResults": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.view.ViewGroup[@index='0'])[61]"
+		},
+		"Schedule_Labtest_TrackerResults_testname": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Test Name']"
+		},
+		"Schedule_Labtest_TrackerResults_Labname": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Lab Name']"
+		},
+		"Schedule_Labtest_TrackerResults_date": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Date']"
+		},
+		"Schedule_Labtest_TrackerResults_orderID": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Order Id']"
+		},
+		"Schedule_Labtest_TrackerResults_viewLabReport": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='View Lab Report']"
+		},
+		"Schedule_Labtest_TrackerResults_download": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Download']"
+		},
+		"Schedule_Scheduleforyeartxt": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Schedule for a year']"
+		},
+		"Schedule_Scheduleforyear": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.view.ViewGroup[@index='0'])[50]"
+		},
+		"Schedule_Listofmonth": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.view.ViewGroup[@index='0'])[35]"
+		},
+		"Schedule_Julymonthschedule": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@index='1'])[4]"
+		},
+		"Schedule_July_Serviceperiod": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='Service Period:'])[1]"
+		},
+		"Schedule_July_frequency": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='Frequency:'])[1]"
+		},
+		"Schedule_JService Description": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='Service Description:'])[1]"
+		},
+		"Schedule_July_servicemode": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='Service Mode:'])[1]"
+		},
+		"Schedule_July_servicestatus": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='Service Status:'])[1]"
+		},
+		"profile_changepswd": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Change Password']"
+		},
+		"profile_enteroldpswd": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.EditText[@text='Type Old Password']"
+		},
+		"profile_enternewpswd": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='New Password']/following-sibling::android.view.ViewGroup/android.widget.EditText)[1]"
+		},
+		"profile_confirmnewpswd": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='Confirm New Password']/following-sibling::android.view.ViewGroup/android.widget.EditText)[1]"
+		},
+		"profile_clicksaveBtn": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Save']"
+		},
+		"change_pass_eye_icon": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='New Password']/following-sibling::android.view.ViewGroup/android.view.ViewGroup)[1]"
+		}
+	},
+	"Locators_login": {
+		"login_username": {
+			"locatorType": "xpath",
+			"locatorValue": "//android.widget.EditText[@text='Email or Mobile Number']"
+		},
+		"login_password": {
+			"locatorType": "xpath",
+			"locatorValue": "//android.widget.EditText[@text='Enter Password']"
+		},
+		"login_btn": {
+			"locatorType": "xpath",
+			"locatorValue": "//android.widget.TextView[@text='Next']"
+		},
+		"login_signup": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Login / Sign-up']"
+		},
+		"Locators_schedule": {
+			"locatorType": "xpath",
+			"locatorValue": "(//android.view.View)[5]"
+		},
+		"Locators_patientname": {
+			"locatorType": "xpath",
+			"locatorValue": "(//android.view.ViewGroup/android.widget.TextView)[4]"
+		},
+		"Locators_patientnameFather": {
+			"locatorType": "xpath",
+			"locatorValue": "//android.widget.TextView[@text='Father sir']"
+		},
+		"Locators_patientnamemother": {
+			"locatorType": "xpath",
+			"locatorValue": "//android.widget.TextView[@text='mother madam']"
+		},
+		"Locators_patientnamesister": {
+			"locatorType": "xpath",
+			"locatorValue": "//android.widget.TextView[@text='Father inlaw']"
+		},
+		"Locators_patientnameMotherinlaw": {
+			"locatorType": "xpath",
+			"locatorValue": "//android.widget.TextView[@text='mother inlaw']"
+		},
+		"Locators_patientnametiger": {
+			"locatorType": "xpath",
+			"locatorValue": "//android.widget.TextView[@text='Tiger sir']"
+		},
+		"Locators_patientnamecancel": {
+			"locatorType": "xpath",
+			"locatorValue": "//android.widget.TextView[@text='cancel']"
+		},
+		"Locators_scheduleplan": {
+			"locatorType": "xpath",
+			"locatorValue": "(//android.view.ViewGroup/android.widget.TextView)[7]"
+		},
+		"Locators_Cardiacplan": {
+			"locatorType": "xpath",
+			"locatorValue": "//android.widget.TextView[@text='Cardiac Care']"
+		},
+		"Locators_Yearofplan": {
+			"locatorType": "xpath",
+			"locatorValue": "(//android.view.ViewGroup/android.widget.TextView)[12]"
+		},
+		"Locators_Planmonth": {
+			"locatorType": "xpath",
+			"locatorValue": "(//android.widget.TextView)[9]"
+		},
+		"Locators_Planmonth_close": {
+			"locatorType": "xpath",
+			"locatorValue": "(//android.widget.TextView)[10]"
+		},
+		"Locators_Doctorconsultation": {
+			"locatorType": "xpath",
+			"locatorValue": "(//android.widget.TextView)[14]"
+		},
+		"Locators_Nursing": {
+			"locatorType": "xpath",
+			"locatorValue": "(//android.widget.TextView)[15]"
+		},
+		"Locators_Labtrack": {
+			"locatorType": "xpath",
+			"locatorValue": "(//android.widget.TextView)[16]"
+		},
+		"Locators_ViewLabtrack": {
+			"locatorType": "xpath",
+			"locatorValue": "//android.widget.TextView[@text='View Lab Report']"
+		},
+		"Locators_ViewLabreport": {
+			"locatorType": "xpath",
+			"locatorValue": "//android.widget.TextView[@text='View Lab Report']"
+		}
+	},
+	
+	"CureBay_locators_PreLogin": {
+		"CB_btn_Login_Sign_up": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Login / Sign-up\"]"
+		},
+		"CB_Login": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Login\"]"
+		},
+		"CB_Sign_Out": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Sign Out\"]"
+		},
+		"CB_Email_or_Mobile_Number": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.EditText[@text='Email or Mobile Number']"
+		},
+		"Rider_text_input_error": {
+			"locatorType": "ID",
+			"locatorValue": "com.shipsy.riderapp.demo:id/textinput_error"
+		},
+		"CB_Enter_Password": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.EditText[@text='Enter Password']"
+		},
+		"autofill_save_no": {
+			"locatorType": "ID",
+			"locatorValue": "android:id/autofill_save_no"
+		},
+		"autofill_save_yes": {
+			"locatorType": "ID",
+			"locatorValue": "android:id/autofill_save_yes"
+		},
+		"CB_Next": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Next']"
+		},
+		"CB_text_btn_Next": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.Button[@text='Next']"
+		},
+		"CB_Dashboard": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Dashboard']"
+		},
+		"CB_Profile_icon": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='L']"
+		},
+		"CB_My_Profile": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='My Profile']"
+		},
+		"CB_My_Details": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='My Details']"
+		},
+		"CB_Details": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Details']"
+		},
+		"CB_Profile_Personal_Details": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Personal Details']/following-sibling::android.view.ViewGroup[1]/android.view.ViewGroup/android.view.ViewGroup/android.widget.TextView"
+		},
+		"CB_Profile_Contact_Details": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Contact Details']/following-sibling::android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.TextView"
+		},
+		"CB_My_Plans": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='My Plans']"
+		},
+		"CB_Health_Records": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Health Records']"
+		},
+		"CB_Review": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Review']"
+		},
+		"CB_Please_share_your_feedback": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Please share your feedback']"
+		},
+		"CB_Manage_Profile": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Manage Profile']"
+		},
+		"CB_Change_Password": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Change Password']"
+		},
+		"CB_Profile_close_icon": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='My Profile']/following-sibling::android.view.ViewGroup//com.horcrux.svg.PathView"
+		},
+		"CB_Profile_My_Prescription": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='My Prescription']"
+		},
+		"CB_Profile_My_Lab_Reports": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='My Lab Reports']"
+		},
+		"CB_Profile_Lab_Reports": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Lab Reports']"
+		},
+		"CB_Profile_Prescription": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Prescription']"
+		},
+		"CB_Health_Records_Symptoms": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='Symptoms']/following-sibling::android.widget.TextView)[1]"
+		},
+		"CB_Health_Records_Doctor_Name": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='Doctor Name']/following-sibling::android.widget.TextView)[1]"
+		},
+		"CB_Health_Records_Any_Allergy": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='Any Allergy']/following-sibling::android.widget.TextView)[1]"
+		},
+		"CB_Health_Records_Consultation_Date": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='Consultation Date']/following-sibling::android.widget.TextView)[1]"
+		},
+		"CB_Health_Records_Next_Consultation_Date": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='Next Consultation Date']/following-sibling::android.widget.TextView)[1]"
+		},
+		"CB_Health_Records_View_Prescription": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='View Prescription'])[1]"
+		},
+		"CB_Health_Records_View_Prescription_Regn_No": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.view.ViewGroup[1]/android.widget.TextView[3]"
+		},
+		"CB_Download_Prescription": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Download Prescription']"
+		},
+		"CB_Copy_to": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Copy to…\"]"
+		},
+		"CB_Copy_to_file_choose": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"@CureBay Testing Files\"]"
+		},
+		"CB_Copy_to_file_choose_paste_confirm": {
+			"locatorType": "ID",
+			"locatorValue": "com.mi.android.globalFileexplorer:id/paste_confirm"
+		},
+		"CB_prescription_pdf": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"prescription.pdf\"]"
+		},
+		"CB_Attention_OK": {
+			"locatorType": "ID",
+			"locatorValue": "android:id/button1"
+		},
+		"CB_My_Vitals": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"My Vitals\"]"
+		},
+		"CB_Your_Vitals": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Your Vitals\"]"
+		},
+		"CB_Temperature": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Temperature\"]"
+		},
+		"CB_Temperature_NormaleRange": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Temperature\"]/following-sibling::android.widget.TextView)[1]"
+		},
+		"CB_Temperature_LastUpadated": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Temperature\"]/following-sibling::android.widget.TextView)[2]"
+		},
+		"CB_HeartRate": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"HeartRate\"]"
+		},
+		"CB_HeartRate_NormaleRange": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"HeartRate\"]/following-sibling::android.widget.TextView)[1]"
+		},
+		"CB_HeartRate_LastUpadated": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"HeartRate\"]/following-sibling::android.widget.TextView)[2]"
+		},
+		"CB_SPo2": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"SPo2\"]"
+		},
+		"CB_SPo2_NormaleRange": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"SPo2\"]/following-sibling::android.widget.TextView)[1]"
+		},
+		"CB_SPo2_LastUpadated": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"SPo2\"]/following-sibling::android.widget.TextView)[2]"
+		},
+		"CB_Triglycerides": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Triglycerides\"]"
+		},
+		"CB_Triglycerides_NormaleRange": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Triglycerides\"]/following-sibling::android.widget.TextView)[1]"
+		},
+		"CB_Triglycerides_LastUpadated": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Triglycerides\"]/following-sibling::android.widget.TextView)[2]"
+		},
+		"CB_Diastolic": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Diastolic\"]"
+		},
+		"CB_Diastolic_NormaleRange": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Diastolic\"]/following-sibling::android.widget.TextView)[1]"
+		},
+		"CB_Diastolic_LastUpadated": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Diastolic\"]/following-sibling::android.widget.TextView)[2]"
+		},
+		"CB_Weight": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Weight\"]"
+		},
+		"CB_Weight_NormaleRange": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Weight\"]/following-sibling::android.widget.TextView)[1]"
+		},
+		"CB_Weight_LastUpadated": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Weight\"]/following-sibling::android.widget.TextView)[2]"
+		},
+		"CB_BP": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"BP\"]"
+		},
+		"CB_BP_NormaleRange": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"BP\"]/following-sibling::android.widget.TextView)[1]"
+		},
+		"CB_BP_LastUpadated": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"BP\"]/following-sibling::android.widget.TextView)[2]"
+		},
+		"CB_HDL": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"HDL\"]"
+		},
+		"CB_HDL_NormaleRange": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"HDL\"]/following-sibling::android.widget.TextView)[1]"
+		},
+		"CB_HDL_LastUpadated": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"HDL\"]/following-sibling::android.widget.TextView)[2]"
+		},
+		"CB_BloodGlucose": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"BloodGlucose\"]"
+		},
+		"CB_BloodGlucose_NormaleRange": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"BloodGlucose\"]/following-sibling::android.widget.TextView)[1]"
+		},
+		"CB_BloodGlucose_LastUpadated": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"BloodGlucose\"]/following-sibling::android.widget.TextView)[2]"
+		},
+		"CB_LDL": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"LDL\"]"
+		},
+		"CB_LDL_NormaleRange": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"LDL\"]/following-sibling::android.widget.TextView)[1]"
+		},
+		"CB_LDL_LastUpadated": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"LDL\"]/following-sibling::android.widget.TextView)[2]"
+		},
+		"CB_Systolic": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Systolic\"]"
+		},
+		"CB_Systolic_NormaleRange": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Systolic\"]/following-sibling::android.widget.TextView)[1]"
+		},
+		"CB_Systolic_LastUpadated": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Systolic\"]/following-sibling::android.widget.TextView)[2]"
+		},
+		"CB_PulseRate": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"PulseRate\"]"
+		},
+		"CB_PulseRate_NormaleRange": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"PulseRate\"]/following-sibling::android.widget.TextView)[1]"
+		},
+		"CB_PulseRate_LastUpadated": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"PulseRate\"]/following-sibling::android.widget.TextView)[2]"
+		},
+		"CB_Height": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Height\"]"
+		},
+		"CB_Height_NormaleRange": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Height\"]/following-sibling::android.widget.TextView)[1]"
+		},
+		"CB_Height_LastUpadated": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Height\"]/following-sibling::android.widget.TextView)[2]"
+		},
+		"CB_TotalCholesterol": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"TotalCholesterol\"]"
+		},
+		"CB_TotalCholesterol_NormaleRange": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"TotalCholesterol\"]/following-sibling::android.widget.TextView)[1]"
+		},
+		"CB_TotalCholesterol_LastUpadated": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"TotalCholesterol\"]/following-sibling::android.widget.TextView)[2]"
+		},
+		"CB_RespirationRate": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"RespirationRate\"]"
+		},
+		"CB_RespirationRate_NormaleRange": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"RespirationRate\"]/following-sibling::android.widget.TextView)[1]"
+		},
+		"CB_RespirationRate_LastUpadated": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"RespirationRate\"]/following-sibling::android.widget.TextView)[2]"
+		},
+		"CB_BMI": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"BMI\"]"
+		},
+		"CB_BMI_NormaleRange": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"BMI\"]/following-sibling::android.widget.TextView)[1]"
+		},
+		"CB_BMI_LastUpadated": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"BMI\"]/following-sibling::android.widget.TextView)[2]"
+		},
+		"CB_Text_CarePlans": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Care Plans']"
+		},
+		"CB_Text_MedicarePlans": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Medicare Plans']"
+		},
+		"CB_NavigateupIcon": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.ImageView)[1]"
+		},
+		"CB_Navigateup": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.ImageButton[@content-desc=\"Navigate up\"]"
+		},
+		"CB_Techsmartsolutions​": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Tech-smart solutions​']"
+		},
+		"CB_btn_TapsMenu": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.Button/android.widget.ImageView"
+		},
+		"CB_btn_TapsMenulist": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.Button/android.widget.TextView"
+		},
+		"CB_btn_Tab_Experience": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Curebay Experience']"
+		},
+		"CB_Text_WelcometooureClinic": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Welcome to our eClinic']"
+		},
+		"CB_Text_Generalhealth": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='General health']"
+		},
+		"CB_Text_Addtocart": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Add to cart']"
+		},
+		"CB_Text_ExperiencePreventivehealthcare": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='01']/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup/android.widget.TextView"
+		},
+		"CB_Text_ExperienceCurativehealthcare": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='02']/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup/android.widget.TextView"
+		},
+		"CB_Text_ExperienceAdvancedhealthcare": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='03']/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup/android.widget.TextView"
+		},
+		"CB_Text_ExperienceNextGenerationSolutions": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Next Generation Solutions.']"
+		},
+		"CB_ExperiencePatientempowerment": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Patient empowerment']"
+		},
+		"CB_ExperiencePatientempowermentinfo": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Patient empowerment']/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup//android.widget.TextView"
+		},
+		"CB_ExperiencePreventivecare": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Preventive care']"
+		},
+		"CB_ExperiencePreventivecareinfo": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Preventive care']/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup//android.widget.TextView"
+		},
+		"CB_ExperienceOnestopshop": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='One-stop shop']"
+		},
+		"CB__ExperienceOnestopshopinfo": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='One-stop shop']/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup//android.widget.TextView"
+		},
+		"CB_ExperienceMultilateralteam": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Multilateral team ']"
+		},
+		"CB__ExperienceMultilateralteaminfo": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Multilateral team ']/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup//android.widget.TextView"
+		},
+		"CB_ExperiencebyConnectedCare": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"24*7 Connected Care\"]"
+		},
+		"CB__ExperiencebyConnectedCareinfo": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"24*7 Connected Care\"]/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup//android.widget.TextView"
+		},
+		"CB_Experience_Techsmartsolutions": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Tech-smart solutions​\"]"
+		},
+		"CB_Experience_Techsmartsolutionsinfo": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Tech-smart solutions​\"]/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup//android.widget.TextView"
+		},
+		"CB_Experience_OneStopHEALTHSOLUTIONS": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"One Stop Health Solutions!\"]"
+		},
+		"CB_Text_ExperienceHolisticcareplans": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Holistic care plans']"
+		},
+		"CB_Text_ExperienceRoundtheclockaccess": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Round the clock access']"
+		},
+		"CB_Text_ExperienceAchievehealthgoals": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Achieve health goals']"
+		},
+		"CB_Text_ExperienceAlwaysstayupdated": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Always stay updated']"
+		},
+		"CB_Text_ExperienceAdvancedtechnology": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Advanced technology']"
+		},
+		"CB_Text_ExperienceHolisticcareplansshortNote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Holistic care plans']/following-sibling::android.widget.TextView"
+		},
+		"CB_Text_ExperienceRoundtheclockaccessshortNote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Round the clock access']/following-sibling::android.widget.TextView"
+		},
+		"CB_Text_ExperienceAchievehealthgoalsshortNote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Achieve health goals']/following-sibling::android.widget.TextView"
+		},
+		"CB_Text_ExperienceAlwaysstayupdatedshortNote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Always stay updated']/following-sibling::android.widget.TextView"
+		},
+		"CB_Text_ExperienceAdvancedtechnologyshortNote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Advanced technology']/following-sibling::android.widget.TextView"
+		},
+		"CB_Text_eClinic": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='eClinic']"
+		},
+		"CB_Text_eCliniccareplansshortNote": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='eClinic']/following-sibling::android.widget.TextView)[1]"
+		},
+		"CB_Text_Technologyplatform": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Technology platform']"
+		},
+		"CB_Text_TechnologyplatformshortNote": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='Technology platform']/following-sibling::android.widget.TextView)[1]"
+		},
+		"CB_Text_Consumerapplication": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Consumer application']"
+		},
+		"CB_Text_ConsumerapplicationshortNote": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='Consumer application']/following-sibling::android.widget.TextView)[1]"
+		},
+		"CB_Text_Healthtechdevices": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Health tech devices']"
+		},
+		"CB_Text_HealthtechdevicesshortNote": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='Health tech devices']/following-sibling::android.widget.TextView)[1]"
+		},
+		"CB_Text_Situationroom": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Situation room']"
+		},
+		"CB_Text_SituationroomshortNote": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='Situation room']/following-sibling::android.widget.TextView)[1]"
+		},
+		"CB_Text_Networkproviders": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Network providers']"
+		},
+		"CB_Text_NetworkprovidersshortNote": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='Network providers']/following-sibling::android.widget.TextView)[1]"
+		},
+		"CB_Service_Partners": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Service Partners']"
+		},
+		"CB_Hospitalservicepartners": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Hospital service partners']"
+		},
+		"CB_Diagnosticlabsservicepartners": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Diagnostic labs service partners']"
+		},
+		"CB_Alliedservicepartners": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Allied service partners']"
+		},
+		"CB_Ambulanceservice": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Ambulance service ']"
+		},
+		"CB_btn_Tab_Locations": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Locations']"
+		},
+		"CB_Text_Location": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Location']"
+		},
+		"CB_Enter_Zipcode": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.EditText[@text='Enter Zipcode']"
+		},
+		"CB_Enter_Zipcode_SUBMIT": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='SUBMIT']"
+		},
+		"CB_Enter_Zipcode_SUBMITAlertMessage": {
+			"locatorType": "id",
+			"locatorValue": "android:id/message"
+		},
+		"CB_Enter_Zipcode_SUBMITAlertMessageOK": {
+			"locatorType": "id",
+			"locatorValue": "android:id/button1"
+		},
+		"CB_Enter_CureBayeClinicsfoundCount": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='CureBay eClinics found']/preceding-sibling::android.view.ViewGroup/android.widget.TextView"
+		},
+		"CB_Locatione_Clinics": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='eClinics']"
+		},
+		"CB_Location_city": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='city']"
+		},
+		"CB_Location_SelectanCity": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Select a City']"
+		},
+		"CB_Location_Selectancity": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Select a city']"
+		},
+		"CB_see_cities_in_dropdown_list​": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.CheckedTextView[@resource-id='android:id/text1']"
+		},
+		"CB_Location_Map_View": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Map View']"
+		},
+		"CB_Tab_AboutUs": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='About Us']"
+		},
+		"CB_eClinic": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='eClinic: ']"
+		},
+		"CB_lastmilehealthcare": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='last mile healthcare.']"
+		},
+		"CB_KeyFeatures": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Key Features:']"
+		},
+		"CB_KeyFeatureslist": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Key Features:']/following-sibling::android.widget.ScrollView//android.widget.TextView"
+		},
+		"CB_Stateofthearthealthcare": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=' State-of-the-art healthcare']"
+		},
+		"CB_atyourfingertips": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=' at your finger tips!']"
+		},
+		"CB_Comprehensive": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=' Comprehensive']"
+		},
+		"CB_healthcareplans": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=' healthcare plans.']"
+		},
+		"CB_GeneralHealth": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='General Health']"
+		},
+		"CB_DiabetesCare": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Diabetes Care']"
+		},
+		"CB_CardiacCare": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Cardiac Care']"
+		},
+		"CB_OrthoCare": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Ortho Care']"
+		},
+		"CB_WomensHealth": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Womens' Health\"]"
+		},
+		"CB_GeneralHealth_shortNote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='General Health']/parent::android.view.ViewGroup/parent::android.view.ViewGroup/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup//android.widget.TextView"
+		},
+		"CB_CardiacCare_shortNote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Cardiac Care']/parent::android.view.ViewGroup/parent::android.view.ViewGroup/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup//android.widget.TextView"
+		},
+		"CB_DiabetesCare_shortNote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Diabetes Care']/parent::android.view.ViewGroup/parent::android.view.ViewGroup/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup//android.widget.TextView"
+		},
+		"CB_OrthoCare_shortNote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Ortho Care']/parent::android.view.ViewGroup/parent::android.view.ViewGroup/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup//android.widget.TextView"
+		},
+		"CB_WomensHealth_shortNote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Womens' Health\"]/parent::android.view.ViewGroup/parent::android.view.ViewGroup/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup//android.widget.TextView"
+		},
+		"CB_Tab_CarePlans2": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='Care Plans'])[2]"
+		},
+		"CB_Tab_CarePlans": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Care Plans']"
+		},
+		"CB_CarePlans_GeneralHealth": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='General Health']"
+		},
+		"CB_CarePlans_CardiacCare": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Cardiac Care']"
+		},
+		"CB_CarePlans_DiabetesCare": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Diabetes Care']"
+		},
+		"CB_CarePlans_OrthoCare": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Ortho Care']"
+		},
+		"CB_CarePlans_WomensHealth": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Womens' Health \"]"
+		},
+		"CB_CarePlans_GeneralHealthInfo": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='General Health']/following-sibling::android.widget.TextView)[1]"
+		},
+		"CB_CarePlans_CardiacCareInfo": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='Cardiac Care']/following-sibling::android.widget.TextView)[1]"
+		},
+		"CB_CarePlans_DiabetesCareInfo": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='Diabetes Care']/following-sibling::android.widget.TextView)[1]"
+		},
+		"CB_CarePlans_OrthoCareInfo": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='Ortho Care']/following-sibling::android.widget.TextView)[1]"
+		},
+		"CB_CarePlans_WomensHealthInfo": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Womens' Health \"]/following-sibling::android.widget.TextView)[1]"
+		},
+		"CB_CarePlans_Annualhealth": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Annual health']"
+		},
+		"CB_CarePlans_Annualhealthplan": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='plan']"
+		},
+		"CB_CarePlans_Annual_health_plan_Pay_MonthlyAddtoCart": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Pay Monthly']/following-sibling::android.view.ViewGroup//android.widget.TextView[@text=' Add to Cart']"
+		},
+		"CB_CarePlans_Annual_health_plan_Pay_inFullAddtoCart": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Pay in Full']/following-sibling::android.view.ViewGroup//android.widget.TextView[@text=' Add to Cart']"
+		},
+		"CB_CarePlans_MonthlyAddtoCart": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=' Add to Cart']"
+		},
+		"CB_CarePlansPleaselogintocontinue": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Please login to continue.']"
+		},
+		"CB_AddtoCartLogin": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.Button[@text='LOGIN']"
+		},
+		"CB_Tabs_Doctors": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Doctors']"
+		},
+		"CB_Doctors_Specialities": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Specialities']"
+		},
+		"CB_Doctors_Specialities_Cardiology": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Cardiology']"
+		},
+		"CB_Doctors_Specialities_Dentistry": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Dentistry']"
+		},
+		"CB_Doctors_Specialities_Dermatology": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Dermatology']"
+		},
+		"CB_Doctors_Specialities_Medicine": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Medicine']"
+		},
+		"CB_Doctors_Specialities_Availabledoctors": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Available doctors']"
+		},
+		"CB_Doctors_Specialities_AvailabledoctorsName": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='Available doctors']//following-sibling::android.widget.HorizontalScrollView//android.widget.TextView)[1]"
+		},
+		"CB_Doctors_Specialities_Availabledoctorsprofession": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='Available doctors']//following-sibling::android.widget.HorizontalScrollView//android.widget.TextView)[2]"
+		},
+		"CB_Doctors_Specialities_Availabledoctorsexperience": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='Available doctors']//following-sibling::android.widget.HorizontalScrollView//android.widget.TextView)[3]"
+		},
+		"CB_Doctors_Specialities_AvailabledoctorsLocation": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='Available doctors']//following-sibling::android.widget.HorizontalScrollView//android.widget.TextView)[4]"
+		},
+		"CB_Doctors_Receivetopnotchtreatment": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Receive top-notch treatment.']"
+		},
+		"CB_Doctors_Getthecareyoneedwithoutleavingthehouse": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Get the care you need without leaving the house!']"
+		},
+		"CB_Doctors_Getthecareyouneedwithoutleavingthehome": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Get the care you need without leaving the home!']"
+		},
+		"CB_Doctors_Getthecareyouneedwithoutleavingthehomeinfo": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Get the care you need without leaving the home!']/following-sibling::android.widget.TextView[1]"
+		},
+		"CB_Doctors_Satisfactionrate98": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='98%']"
+		},
+		"CB_Doctors_Satisfactionrate": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=' Satisfaction rate']"
+		},
+		"CB_Doctors_RegisteredUsers28": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='28k+']"
+		},
+		"CB_Doctors_RegisteredUsers": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=' Registered Users ']"
+		},
+		"CB_Doctors_GetQualityCareWithOurDoctors": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Get Quality Care With Our Doctors!']"
+		},
+		"CB_Doctors_30Min": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='30+ Min']"
+		},
+		"CB_Doctors_30MinCureBayDoctors": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='CureBay Doctors']"
+		},
+		"CB_Doctors_Lessthan5Min": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Less than 5 Min']"
+		},
+		"CB_Doctors_Lessthan5MinOthersDoctors": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Other's Doctors\"]"
+		},
+		"CB_Doctors_Lessthan5MinDoctorselsewhere": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Doctors elsewhere\"]"
+		},
+		"CB_See_All": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='See All']"
+		},
+		"CB_All_Specialities": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='All Specialities']"
+		},
+		"CB_All_Specialitieslist": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView"
+		},
+		"CB_Search": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.EditText[@text='Search']"
+		},
+		"CB_All_available_doctors": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='All available doctors']"
+		},
+		"CB_number_available_doctors_found": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='All available doctors']/following-sibling::android.widget.TextView"
+		},
+		"CB_All_available_doctors_name": {
+			"locatorType": "XPath",
+			"locatorValue": "((//android.widget.TextView[@text='All available doctors']/following-sibling::android.view.ViewGroup)[2]/android.widget.TextView)[1]"
+		},
+		"CB_All_available_doctors_speciality": {
+			"locatorType": "XPath",
+			"locatorValue": "((//android.widget.TextView[@text='All available doctors']/following-sibling::android.view.ViewGroup)[2]/android.widget.TextView)[2]"
+		},
+		"CB_All_available_doctors_experience": {
+			"locatorType": "XPath",
+			"locatorValue": "((//android.widget.TextView[@text='All available doctors']/following-sibling::android.view.ViewGroup)[2]/android.widget.TextView)[3]"
+		},
+		"CB_All_available_doctors_location": {
+			"locatorType": "XPath",
+			"locatorValue": "((//android.widget.TextView[@text='All available doctors']/following-sibling::android.view.ViewGroup)[2]/android.widget.TextView)[4]"
+		},
+		"CB_All_available_doctors_VideoConsultationfee": {
+			"locatorType": "XPath",
+			"locatorValue": "((//android.widget.TextView[@text='All available doctors']/following-sibling::android.view.ViewGroup)[2]/android.widget.TextView)[5]"
+		},
+		"CB_All_available_doctors_Read_more": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='All available doctors']/following-sibling::android.view.ViewGroup)[2]/android.view.ViewGroup/android.widget.TextView"
+		},
+		"CB_tabs_Reviews": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Reviews']"
+		},
+		"CB_tabs_Reviews_Memberexperience": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Member experience']"
+		},
+		"CB_tabs_reviewer_Name": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='Member experience']//following-sibling::android.widget.ScrollView/android.view.ViewGroup//android.widget.TextView)[1]"
+		},
+		"CB_tabs_reviewer_location": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='Member experience']//following-sibling::android.widget.ScrollView/android.view.ViewGroup//android.widget.TextView)[2]"
+		},
+		"CB_tabs_reviewer_review": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='Member experience']//following-sibling::android.widget.ScrollView/android.view.ViewGroup//android.widget.TextView)[3]"
+		},
+		"CB_tabs_reviewer_postedDate": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='Member experience']//following-sibling::android.widget.ScrollView/android.view.ViewGroup//android.widget.TextView)[4]"
+		},
+		"CB_tabs_reviewer_ShowAll": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Show All 〉\"]"
+		},
+		"CB_tabs_reviewer_SeeLess": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='See Less']"
+		},
+		"CB_Videos": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Videos']"
+		},
+		"CB_Hear_it_straight_from_the_source": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Hear it straight from the source']"
+		},
+		"CB_ClicksVideo": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Hear it straight from the source']/following-sibling::android.view.ViewGroup/android.view.ViewGroup/android.view.View"
+		},
+		"CB_Tabs_Our_Team": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Our Team']"
+		},
+		"CB_Meetthedreamers": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Meet the dreamers']"
+		},
+		"CB_FounderCEO": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Founder & CEO\"]"
+		},
+		"CB_FounderCEO_Name": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Priyadarshi Mohapatra\"]"
+		},
+		"CB_FounderCEO_note": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Founder & CEO\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_CoFounderCOO": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Co-Founder & COO\"]"
+		},
+		"CB_CoFounderCOO_Name": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Shobhan Mahapatra\"]"
+		},
+		"CB_CoFounderCOO_note": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Co-Founder & COO\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_CoFounderCTO": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Co-Founder & CTO\"]"
+		},
+		"CB_CoFounderCTO_Name": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Sanjay Swain\"]"
+		},
+		"CB_CoFounderCTO_note": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Co-Founder & CTO\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_President": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='President']"
+		},
+		"CB_President_Name": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Vasant Nangia']"
+		},
+		"CB_President_note": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='President']/following-sibling::android.widget.TextView"
+		},
+		"CB_HeadStrategicPartnerships": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Head - Strategic Partnerships\"]"
+		},
+		"CB_HeadStrategicPartnerships_Name": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Dr. Shikha Suman\"]"
+		},
+		"CB_HeadStrategicPartnerships_note": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Head - Strategic Partnerships\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_HeadSalesOperations": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Head - Sales & Operations\"]"
+		},
+		"CB_HeadSalesOperations_Name": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Siddhartha Das\"]"
+		},
+		"CB_HeadSalesOperations_note": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Head - Sales & Operations\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_HeadStrategicInitiatives": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Head - Strategic Initiatives\"]"
+		},
+		"CB_HeadStrategicInitiatives_Name": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Ramdas Mullath\"]"
+		},
+		"CB_HeadStrategicInitiatives_note": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Head - Strategic Initiatives\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_ChiefProgramOfficer": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Chief Program Officer']"
+		},
+		"CB_ChiefProgramOfficer_Name": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Dr Shilpa Bhatte']"
+		},
+		"CB_ChiefProgramOfficer_note": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Chief Program Officer']/following-sibling::android.widget.TextView"
+		},
+		"CB_HeadFinance": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Head - Finance\"]"
+		},
+		"CB_HeadFinance_Name": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Nikhil Gupta\"]"
+		},
+		"CB_HeadFinance_note": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Head - Finance\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_Our_Advisors": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Our Advisors\"]"
+		},
+		"CB_Our_Advisors_Bhaskar_Pramanik": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Bhaskar Pramanik\"]"
+		},
+		"CB_DrBirenSahoo": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Dr. Biren Sahoo\"]"
+		},
+		"CB_DrBirenSahooNote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Dr. Biren Sahoo\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_AshvanniSrivastava": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Ashvanni Srivastava\"]"
+		},
+		"CB_AshvanniSrivastavaNote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Ashvanni Srivastava\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_DrBidhanDas": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Dr. Bidhan Das\"]"
+		},
+		"CB_DrBidhanDasNote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Dr. Bidhan Das\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_Our_Advisors_Bhaskar_PramanikNote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Bhaskar Pramanik\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_Our_Randy_Charles_Belcher": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Randy Charles Belcher\"]"
+		},
+		"CB_Our_Randy_Charles_BelcherNote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Randy Charles Belcher\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_Our_Jyotsana_Krishnan": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Jyotsana Krishnan\"]"
+		},
+		"CB_Our_Jyotsana_KrishnanNote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Jyotsana Krishnan\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_GeneralHealthCareFrequency": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"General Health Care Frequency\"]"
+		},
+		"CB_Frequency_Monthly": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Monthly']"
+		},
+		"CB_Frequency_Quarterly": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Quarterly']"
+		},
+		"CB_Frequency_HalfYearly": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Half Yearly']"
+		},
+		"CB_Frequency_Yearly": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Yearly']"
+		},
+		"CB_Frequency_OnDemand": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='On Demand']"
+		},
+		"CB_Periodicvisitsforhealthassessment": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Periodic visits for health assessment']"
+		},
+		"CB_Periodicvisitsforhealthassessmentshortnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Periodic visits for health assessment']/following-sibling::android.widget.TextView"
+		},
+		"CB_ParamedicalcareHealtheducator": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Paramedical care - Health educator']"
+		},
+		"CB_ParamedicalcareHealtheducatorshortnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Paramedical care - Health educator']/following-sibling::android.widget.TextView"
+		},
+		"CB_DetailedannualcheckupandcareHealtheducator": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Detailed annual check-up and care - Health educator']"
+		},
+		"CB_DetailedannualcheckupandcareHealtheducatorshortnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Detailed annual check-up and care - Health educator']/following-sibling::android.widget.TextView"
+		},
+		"CB_ParamedicalcareHealthEducator": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Paramedical care - Health Educator']"
+		},
+		"CB_ParamedicalcareHealthEducatorshortnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Paramedical care - Health Educator']/following-sibling::android.widget.TextView"
+		},
+		"CB_AnnualoutcomeLabtest": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Annual outcome - Lab test']"
+		},
+		"CB_AnnualoutcomeLabtestshortnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Annual outcome - Lab test']/following-sibling::android.widget.TextView"
+		},
+		"CB_AnnualoutcomeGeneralPhysician": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Annual outcome - General Physician']"
+		},
+		"CB_AnnualoutcomeGeneralPhysicianshortnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Annual outcome - General Physician']/following-sibling::android.widget.TextView"
+		},
+		"CB_AnnualoutcomeInPersonNursevisit": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Annual outcome - In-Person Nurse visit']"
+		},
+		"CB_AnnualoutcomeInPersonNursevisitshortnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Annual outcome - In-Person Nurse visit']/following-sibling::android.widget.TextView"
+		},
+		"CB_ParamedicalcareInPersonNursevisit": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Paramedical care - In-Person Nurse visit']"
+		},
+		"CB_ParamedicalcareInPersonNursevisitshortnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Paramedical care - In-Person Nurse visit']/following-sibling::android.widget.TextView"
+		},
+		"CB_DetailedannualcheckupandcarePhysiotherapist": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Detailed annual check-up and care - Physiotherapist']"
+		},
+		"CB_DetailedannualcheckupandcarePhysiotherapistshortnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Detailed annual check-up and care - Physiotherapist']/following-sibling::android.widget.TextView"
+		},
+		"CB_DetailedannualcheckupandcareNutritionist": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Detailed annual check-up and care - Nutritionist']"
+		},
+		"CB_DetailedannualcheckupandcareNutritionistshortnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Detailed annual check-up and care - Nutritionist']/following-sibling::android.widget.TextView"
+		},
+		"CB_OthercheckupsPhysiotherapist": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Other check-ups - Physiotherapist']"
+		},
+		"CB_OthercheckupsPhysiotherapistshortnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Other check-ups - Physiotherapist']/following-sibling::android.widget.TextView"
+		},
+		"CB_OthercheckupsNutritionist": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Other check-ups - Nutritionist']"
+		},
+		"CB_OthercheckupsNutritionistshortnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Other check-ups - Nutritionist']/following-sibling::android.widget.TextView"
+		},
+		"CB_OthercheckupsHealtheducator": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Other check-ups - Health educator']"
+		},
+		"CB_OthercheckupsHealtheducatorshortnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Other check-ups - Health educator']/following-sibling::android.widget.TextView"
+		},
+		"CB_OthercheckupsHealthEducator": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Other check-ups - Health Educator']"
+		},
+		"CB_OthercheckupsHealthEducatorshortnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Other check-ups - Health Educator']/following-sibling::android.widget.TextView"
+		},
+		"CB_OthercheckupsNurse": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Other check-ups - Nurse']"
+		},
+		"CB_OthercheckupsNurseshortnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Other check-ups - Nurse']/following-sibling::android.widget.TextView"
+		},
+		"CB_Annualassessmentandcare": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Annual assessment and care']"
+		},
+		"CB_Annualassessmentandcareshortnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Annual assessment and care']/following-sibling::android.widget.TextView"
+		},
+		"CB_MYplan_Periodiccallsforhealthassessment": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Periodic calls for health assessment']/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup/android.view.ViewGroup/android.widget.TextView)[2]"
+		},
+		"CB_Specialitycareandreferral": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Speciality care and referral']"
+		},
+		"CB_CB_Specialitycareandreferralnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Speciality care and referral']/following-sibling::android.widget.TextView"
+		},
+		"CB_MyPlan_Specialitycareandreferral": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='Speciality care and referral']/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup/android.view.ViewGroup/android.widget.TextView)[2]"
+		},
+		"CB_Paramedicalcare": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Paramedical care']"
+		},
+		"CB_CB_Paramedicalcarenote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Paramedical care']/following-sibling::android.widget.TextView"
+		},
+		"CB_Paramedical_care_Nutritionist": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Paramedical care - Nutritionist\"]"
+		},
+		"CB_Paramedical_care_Nutritionistnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Paramedical care - Nutritionist\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_Paramedical_care_Nurse": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Paramedical care - Nurse\"]"
+		},
+		"CB_Paramedical_care_Nursenote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Paramedical care - Nurse\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_Paramedical_care_Physiotherapist": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Paramedical care - Physiotherapist\"]"
+		},
+		"CB_Paramedical_care_Physiotherapistnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Paramedical care - Physiotherapist\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_MyPlan_Paramedicalcare": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='Paramedical care']/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup/android.view.ViewGroup/android.widget.TextView)[2]"
+		},
+		"CB_Fullhealthcheckupandcare": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Full health check-up and care\"]"
+		},
+		"CB_Fullhealthcheckupandcarenote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Full health check-up and care\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_MyPlan_Fullhealthcheckupandcare": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Full health check-up and care\"]/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup/android.view.ViewGroup/android.widget.TextView)[2]"
+		},
+		"CB_6monthlylabtests": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"6 monthly lab tests\"]"
+		},
+		"CB_6monthlylabtestsnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"6 monthly lab tests\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_Myplan_6monthlylabtests": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"6 monthly lab tests\"]/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup/android.view.ViewGroup/android.widget.TextView)[2]"
+		},
+		"CB_InPersonNursevisit": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"In-Person Nurse visit\"]"
+		},
+		"CB_InPersonNursevisitnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"In-Person Nurse visit\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_Baselinespecialityassessmentandcarebydiabetologist": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Baseline speciality assessment and care by diabetologist\"]"
+		},
+		"CB_Baselinespecialityassessmentandcarebydiabetologistnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Baseline speciality assessment and care by diabetologist\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_Prescreeningandselectionofrightcarepackage": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Pre-screening and selection of right care package\"]"
+		},
+		"CB_Prescreeningandselectionofrightcarepackagenote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Pre-screening and selection of right care package\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_MyPlan_Prescreeningandselectionofrightcarepackagenote": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Pre-screening and selection of right care package\"]/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup/android.view.ViewGroup/android.widget.TextView)[2]"
+		},
+		"CB_DetailedbaselineevaluationcareNurse": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Detailed baseline evaluation & care - Nurse\"]"
+		},
+		"CB_DetailedbaselineevaluationcareNursenote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Detailed baseline evaluation & care - Nurse\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_MyPlan_DetailedbaselineevaluationcareNurse": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Detailed baseline evaluation & care - Nurse\"]/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup/android.view.ViewGroup/android.widget.TextView)[2]"
+		},
+		"CB_DetailedbaselineevaluationcareLabtest": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Detailed baseline evaluation & care - Lab test\"]"
+		},
+		"CB_DetailedbaselineevaluationcareLabtestnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Detailed baseline evaluation & care - Lab test\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_MyPlan_DetailedbaselineevaluationcareLabtest": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Detailed baseline evaluation & care - Lab test\"]/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup/android.view.ViewGroup/android.widget.TextView)[2]"
+		},
+		"CB_Completehealthreviewcarebyphysician": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Complete health review & care by physician\"]"
+		},
+		"CB_Completehealthreviewcarebyphysiciannote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Complete health review & care by physician\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_MyPlan_Completehealthreviewcarebyphysician": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Complete health review & care by physician\"]/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup/android.view.ViewGroup/android.widget.TextView)[2]"
+		},
+		"CB_Detailedannualcheckupcare": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Detailed annual check-up & care\"]"
+		},
+		"CB_Detailedannualcheckupcarenote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Detailed annual check-up & care\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_MyPlan_Detailedfinalcheckupcare": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Detailed final check-up & care\"]/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup/android.view.ViewGroup/android.widget.TextView)[2]"
+		},
+		"CB_Annualoutcome": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Annual outcome\"]"
+		},
+		"CB_Annualoutcomenote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Annual outcome\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_MyPlanAnnualoutcome": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Annual outcome\"]/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup/android.view.ViewGroup/android.widget.TextView)[2]"
+		},
+		"CB_Someofourondemandofferings": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Some of our on-demand offerings\"]"
+		},
+		"CB_Someofourondemandofferingsnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Some of our on-demand offerings\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_servicesthatweofferondemand": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Special services that we offer on demand\"]"
+		},
+		"CB_Specialservicesthatweofferondemandnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Special services that we offer on demand\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_Annualoutcomelabtests": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Annual outcome - lab tests\"]"
+		},
+		"CB_Annualoutcomelabtestsnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Annual outcome - lab tests\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_DiabetesCareFrequency": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Diabetes Care Frequency\"]"
+		},
+		"CB_DiabetesCareFrequencyMonthly": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Diabetes Care Frequency']/following-sibling::android.view.ViewGroup//android.widget.TextView[@text='Monthly']"
+		},
+		"CB_DiabetesCareFrequencyQuarterly": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Diabetes Care Frequency']/following-sibling::android.view.ViewGroup//android.widget.TextView[@text='Quarterly']"
+		},
+		"CB_DiabetesCareFrequencyHalfYearly": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Half Yearly']"
+		},
+		"CB_DiabetesCareFrequencyYearly": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Yearly']"
+		},
+		"CB_DiabetesCareFrequencyOnDemand": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='On Demand']"
+		},
+		"CB_Periodiconlinefollowupsandcare": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Periodic online follow-ups and care\"]"
+		},
+		"CB_Periodiconlinefollowupsandcarenote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Periodic online follow-ups and care\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_MonthlycareassessmentbyDiabeteseducator": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Monthly care & assessment - by Diabetes educator \"]"
+		},
+		"CB_MonthlycareassessmentbyDiabeteseducatornote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Monthly care & assessment - by Diabetes educator \"]/following-sibling::android.widget.TextView"
+		},
+		"CB_Monthlycareassessment": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Monthly care & assessment\"]"
+		},
+		"CB_Monthlycareassessmentnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Monthly care & assessment\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_OthercheckupsInPersonNursevisit": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Other check-ups - In-Person Nurse visit\"]"
+		},
+		"CB_OthercheckupsInPersonNursevisitnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Other check-ups - In-Person Nurse visit\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_Othercheckupsatbaseline": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Other check-ups at baseline\"]"
+		},
+		"CB_Othercheckupsatbaselinenote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Other check-ups at baseline\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_AnnualassessmentandcareNutritionist": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Annual assessment and care - Nutritionist\"]"
+		},
+		"CB_AnnualassessmentandcareNutritionistnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Annual assessment and care - Nutritionist\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_AnnualassessmentandcarePhysiotherapist": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Annual assessment and care - Physiotherapist\"]"
+		},
+		"CB_AnnualassessmentandcarePhysiotherapistnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Annual assessment and care - Physiotherapist\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_AnnualassessmentandcareHealtheducator": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Annual assessment and care - Health educator\"]"
+		},
+		"CB_AnnualassessmentandcareHealtheducatornote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Annual assessment and care - Health educator\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_Comprehensivequarterlycarebythephysician": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Comprehensive quarterly care by the physician\"]"
+		},
+		"CB_Comprehensivequarterlycarebythephysiciannote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Comprehensive quarterly care by the physician\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_Diabetesmonitoringathome": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Diabetes monitoring at home\"]"
+		},
+		"CB_Diabetesmonitoringathomenote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Diabetes monitoring at home\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_BaselinecomprehensivediabetesassessmentcareNurse": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Baseline comprehensive diabetes assessment & care - Nurse\"]"
+		},
+		"CB_BaselinecomprehensivediabetesassessmentcareNursenote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Baseline comprehensive diabetes assessment & care - Nurse\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_BaselinecomprehensivediabetesassessmentcareLabtest": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Baseline comprehensive diabetes assessment & care - Lab test\"]"
+		},
+		"CB_BaselinecomprehensivediabetesassessmentcareLabtestnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Baseline comprehensive diabetes assessment & care - Lab test\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_Baselinespecialityassessmentandcarebydiabetelogist": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Baseline speciality assessment and care by diabetelogist\"]"
+		},
+		"CB_Baselinespecialityassessmentandcarebydiabetelogistnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Baseline speciality assessment and care by diabetelogist\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_Ophthalmologistreviewatbaseline": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Ophthalmologist review at baseline\"]"
+		},
+		"CB_Ophthalmologistreviewatbaselinenote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Ophthalmologist review at baseline\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_Finalannualassessmentandcare": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Final annual assessment and care\"]"
+		},
+		"CB_Finalannualassessmentandcarenote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Final annual assessment and care\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_CardiacCareFrequency": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Cardiac Care Frequency\"]"
+		},
+		"CB_CardiacCareFrequencyMonthly": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Cardiac Care Frequency']/following-sibling::android.view.ViewGroup//android.widget.TextView[@text='Monthly']"
+		},
+		"CB_CardiacCareFrequencyQuarterly": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Cardiac Care Frequency']/following-sibling::android.view.ViewGroup//android.widget.TextView[@text='Quarterly']"
+		},
+		"CB_CardiacCareFrequencyHalfYearly": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Half Yearly']"
+		},
+		"CB_CardiacCareFrequencyYearly": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Yearly']"
+		},
+		"CB_CardiacCareFrequencyOnDemand": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='On Demand']"
+		},
+		"CB_Careassessment": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Care & assessment\"]"
+		},
+		"CB_Careassessmentnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Care & assessment\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_Cardiacmonitoring": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Cardiac monitoring\"]"
+		},
+		"CB_Cardiacmonitoringnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Cardiac monitoring\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_BaselinecomprehensivecardiachealthassessmentcareNurse": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Baseline comprehensive cardiac health assessment & care - Nurse\"]"
+		},
+		"CB_BaselinecomprehensivecardiachealthassessmentcareNursenote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Baseline comprehensive cardiac health assessment & care - Nurse\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_BaselinecomprehensivecardiachealthassessmentcareLabtest": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Baseline comprehensive cardiac health assessment & care - Lab test\"]"
+		},
+		"CB_BaselinecomprehensivecardiachealthassessmentcareLabtestnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Baseline comprehensive cardiac health assessment & care - Lab test\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_Baselineassessmentofcardiachealthandcarebyacardiologist": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Baseline assessment of cardiac health and care by a cardiologist\"]"
+		},
+		"CB_Baselineassessmentofcardiachealthandcarebyacardiologistnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Baseline assessment of cardiac health and care by a cardiologist\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_Tab_Articles": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Articles']"
+		},
+		"CB_Take_a_glimpse_at_our_accomplishments": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Take a glimpse at our accomplishments.']"
+		},
+		"CB_TakealookatoureClinicfacility": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Take a look at our eClinic facility.']"
+		},
+		"CB_Image": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Image']"
+		},
+		"CB_Video": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Video']"
+		},
+		"CB_any_Image_Articles": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='Image']/parent::android.view.ViewGroup/parent::android.view.ViewGroup/following-sibling::android.widget.ScrollView/android.view.ViewGroup//android.widget.ImageView)[1]"
+		},
+		"CB_any_Video": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='Video']/parent::android.view.ViewGroup/parent::android.view.ViewGroup/following-sibling::android.widget.ScrollView/android.view.ViewGroup//android.widget.ImageView)[1]"
+		},
+		"CB_OrthoCareFrequency": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Ortho Care Frequency\"]"
+		},
+		"CB_OrthoCareFrequencyMonthly": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Ortho Care Frequency']/following-sibling::android.view.ViewGroup//android.widget.TextView[@text='Monthly']"
+		},
+		"CB_OrthoCareFrequencyQuarterly": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Ortho Care Frequency']/following-sibling::android.view.ViewGroup//android.widget.TextView[@text='Quarterly']"
+		},
+		"CB_OrthoHealthCareFrequencyHalfYearly": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Ortho Care Frequency']/following-sibling::android.view.ViewGroup//android.widget.TextView[@text='Half Yearly']"
+		},
+		"CB_OrthoHealthCareFrequencyYearly": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Ortho Care Frequency']/following-sibling::android.view.ViewGroup//android.widget.TextView[@text='Yearly']"
+		},
+		"CB_OrthoHealthCareFrequencyOnDemand": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='On Demand']"
+		},
+		"CB_Physiotherapy": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Physiotherapy\"]"
+		},
+		"CB_Physiotherapynote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Physiotherapy\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_DetailedbaselineevaluationsymptomaticcareNurse": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Detailed baseline evaluation & symptomatic care - Nurse\"]"
+		},
+		"CB_DetailedbaselineevaluationsymptomaticcareNursenote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Detailed baseline evaluation & symptomatic care - Nurse\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_DetailedbaselineevaluationsymptomaticcareLabtest": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Detailed baseline evaluation & symptomatic care - Lab test\"]"
+		},
+		"CB_DetailedbaselineevaluationsymptomaticcareLabtestnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Detailed baseline evaluation & symptomatic care - Lab test\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_CompletehealthreviewcarebyFamilyphysician": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Complete health review & care by Family physician \"]"
+		},
+		"CB_CompletehealthreviewcarebyFamilyphysiciannote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Complete health review & care by Family physician \"]/following-sibling::android.widget.TextView"
+		},
+		"CB_CompletehealthreviewcarebyOrthopaedician": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Complete health review & care by Orthopaedician \"]"
+		},
+		"CB_CompletehealthreviewcarebyOrthopaediciannote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Complete health review & care by Orthopaedician \"]/following-sibling::android.widget.TextView"
+		},
+		"CB_CompletehealthreviewcarebyOrthopedician": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Complete health review & care by Orthopedician \"]"
+		},
+		"CB_CompletehealthreviewcarebyOrthopediciannote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Complete health review & care by Orthopedician \"]/following-sibling::android.widget.TextView"
+		},
+		"CB_Endofyearlabtests": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"End of year - lab tests\"]"
+		},
+		"CB_Endofyearlabtestsnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"End of year - lab tests\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_Specialtycareandreferral": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Specialty care and referral\"]"
+		},
+		"CB_Specialtycareandreferralnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Specialty care and referral\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_WomensHealthCareFrequency": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Womens Health Care Frequency\"]"
+		},
+		"CB_WomensHealthCareFrequencyMonthly": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Womens Health Care Frequency']/following-sibling::android.view.ViewGroup//android.widget.TextView[@text='Monthly']"
+		},
+		"CB_WomensHealthCareFrequencyQuarterly": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Womens Health Care Frequency']/following-sibling::android.view.ViewGroup//android.widget.TextView[@text='Quarterly']"
+		},
+		"CB_WomensHealthCareFrequencyHalfYearly": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Half Yearly']"
+		},
+		"CB_WomensHealthCareFrequencyYearly": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Yearly']"
+		},
+		"CB_WomensHealthCareFrequencyOnDemand": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='On Demand']"
+		},
+		"CB_OBGYNreview": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"OBGYN review\"]"
+		},
+		"CB_OBGYNreviewnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"OBGYN review\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_CompletehealthreviewbyFamilyphysician": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Complete health review by Family physician \"]"
+		},
+		"CB_CompletehealthreviewbyFamilyphysiciannote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Complete health review by Family physician \"]/following-sibling::android.widget.TextView"
+		},
+		"CB_CompletehealthreviewcarebyOBGYNspecialist": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Complete health review & care by OBGYN specialist\"]"
+		},
+		"CB_CompletehealthreviewcarebyOBGYNspecialistnote": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Complete health review & care by OBGYN specialist\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_Question1": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Q1.The app was easy to use..\"]"
+		},
+		"CB_Question1_points": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Q1.The app was easy to use..\"]/following-sibling::android.view.ViewGroup/android.widget.TextView"
+		},
+		"CB_Question2": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Q2.Was it easy for you to find the information which you needed?.\"]"
+		},
+		"CB_Question2_points": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Q2.Was it easy for you to find the information which you needed?.\"]/following-sibling::android.view.ViewGroup/android.widget.TextView"
+		},
+		"CB_Question3": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Q3.The app helped be better understand my parents/my health status and allowed me to see the progress..\"]"
+		},
+		"CB_Question3_points": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Q3.The app helped be better understand my parents/my health status and allowed me to see the progress..\"]/following-sibling::android.view.ViewGroup/android.widget.TextView"
+		},
+		"CB_Question4": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Q4.I feel confortable using this services..\"]"
+		},
+		"CB_Question4_points": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Q4.I feel confortable using this services..\"]/following-sibling::android.view.ViewGroup/android.widget.TextView"
+		},
+		"CB_Question5": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Q.Please share your additional feedback to service you better..\"]"
+		},
+		"CB_Question5_your_feedback": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Q.Please share your additional feedback to service you better..\"]/following-sibling::android.widget.EditText"
+		},
+		"CB_Question5_feedBack": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.EditText[@text=\"Your Feedback\"]"
+		},
+		"CB_Submit": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Submit\"]"
+		},
+		"CB_Review_Added_Successfully": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Review Added Successfully.\"]"
+		},
+		"CB_Clicks_OK": {
+			"locatorType": "ID",
+			"locatorValue": "android:id/button1"
+		},
+		"CB_dropdown_related_to_select_Patient_Name": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Select Patient Name:\"]/following-sibling::android.view.ViewGroup/android.view.ViewGroup//android.widget.TextView)[1]"
+		},
+		"CB_select_related_to_select_Patient_Name": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Father sir\"]"
+		},
+		"CB_select_RadioButton1": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.RadioButton)[1]"
+		},
+		"CB_Validity_Left": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Validity Left:\"]"
+		},
+		"CB_Validity_Left_Value": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Validity Left:\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_Renewal_Date": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Renewal Date:\"]"
+		},
+		"CB_Renewal_Date_Value": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Renewal Date:\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_CB_Manage_Profile": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Manage Profile\"]"
+		},
+		"CB_CB_See_Profiles": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"See Profiles\"]"
+		},
+		"CB_See_Father_sir": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Father sir\"]"
+		},
+		"CB_See_Father": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Father\"]"
+		},
+		"CB_SPatient_Id_12402": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Patient Id: 12402\"]"
+		},
+		"CB_SPatient_Id_13079": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Patient Id: 13079\"]"
+		},
+		"CB_GenderMale": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Gender : Male\"]"
+		},
+		"CB_RelationFather": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Relation : Father\"]"
+		},
+		"CB_BloodgroupABve": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Blood group : AB+ve\"]"
+		},
+		"CB_BloodgroupA_N": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Blood group : A-\"]"
+		},
+		"CB_DOB23082023": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"DOB : 23/08/2023\"]"
+		},
+		"CB_DOB21071964": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"DOB : 21/07/1964\"]"
+		},
+		"CB_PackageNames": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Package Name : Package Name : Ortho Care, Diabetes Care, General Health Care, Cardiac Care\"]"
+		},
+		"CB_viewthreedots": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"...\"])[1]"
+		},
+		"CB_Text_view": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"View\"]"
+		},
+		"CB_text_Details": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Details\"]"
+		},
+		"CB_text_Edit": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Edit\"]"
+		},
+		"CB_IDNUMBER12402": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"ID NUMBER:12402\"]"
+		},
+		"CB_Personal_Details": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Personal Details\"]"
+		},
+		"CB_Profile_Details": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Profile Details\"]"
+		},
+		"CB_Salutation": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Salutation\"]"
+		},
+		"CB_SalutationData": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Salutation\"]/following-sibling::android.widget.TextView)[2]"
+		},
+		"CB_FirstName": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"First Name\"]"
+		},
+		"CB_FirstNameData": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"First Name\"]/following-sibling::android.widget.TextView)[2]"
+		},
+		"CB_LastName": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Last Name\"]"
+		},
+		"CB_LastNameData": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Last Name\"]/following-sibling::android.widget.TextView)[2]"
+		},
+		"CB_Gender": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Gender\"]"
+		},
+		"CB_GenderData": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Gender\"]/following-sibling::android.widget.TextView)[2]"
+		},
+		"CB_MobileNumber": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Mobile Number\"]"
+		},
+		"CB_MobileNumberData": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Mobile Number\"]/following-sibling::android.widget.TextView)[2]"
+		},
+		"CB_Relation": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Relation\"]"
+		},
+		"CB_RelationData": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Relation\"]/following-sibling::android.widget.TextView)[2]"
+		},
+		"CB_DateofBirth": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Date of Birth\"]"
+		},
+		"CB_DateofBirthData": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Date of Birth\"]/following-sibling::android.widget.TextView)[2]"
+		},
+		"CB_BloodGroup": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Blood Group\"]"
+		},
+		"CB_BloodGroupData": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Blood Group\"]/following-sibling::android.widget.TextView)[2]"
+		},
+		"CB_Email": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Email\"]"
+		},
+		"CB_EmailData": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Email\"]/following-sibling::android.widget.TextView)[2]"
+		},
+		"CB_Age": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Age\"]"
+		},
+		"CB_AgeData": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Age\"]/following-sibling::android.widget.TextView)[2]"
+		},
+		"CB_Contact_Details": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Contact Details\"]"
+		},
+		"CB_HouseNoStreetName": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"House No/Street Name\"]"
+		},
+		"CB_HouseNoStreetNameData": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"House No/Street Name\"]/following-sibling::android.widget.TextView)[2]"
+		},
+		"CB_Pincode": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Pincode\"]"
+		},
+		"CB_PincodeData": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Pincode\"]/following-sibling::android.widget.TextView)[2]"
+		},
+		"CB_Address": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Address\"]"
+		},
+		"CB_AddressData": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Address\"]/following-sibling::android.widget.TextView)[2]"
+		},
+		"CB_Citys": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"City\"]"
+		},
+		"CB_CitysData": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"City\"]/following-sibling::android.widget.TextView)[2]"
+		},
+		"CB_States": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"State\"]"
+		},
+		"CB_StatesData": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"State\"]/following-sibling::android.widget.TextView)"
+		},
+		"CB_Choose_health_care_plan_for_your_family_member": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Choose health care plan for your family member\"]"
+		},
+		"CB_Text_General_Health_Care": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"General Health Care\"]"
+		},
+		"CB_btn_Next": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Next\"]"
+		},
+		"CB_General_Health_Care_Option": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"General Health Care\"]/parent::android.view.ViewGroup/parent::android.view.ViewGroup/preceding-sibling::android.view.ViewGroup/android.view.ViewGroup"
+		},
+		"CB_General_Health_Care_price": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"General Health Care\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_General_Health_Care_Details": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"General Health Care\"]/parent::android.view.ViewGroup/parent::android.view.ViewGroup/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup/android.view.ViewGroup/android.widget.TextView[2]"
+		},
+		"CB_addtocart": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup[2]/android.view.ViewGroup/android.view.ViewGroup[3]/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup[2]"
+		},
+		"CB_YourCart": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"YourCart\"]"
+		},
+		"CB_YourCart_DropDown": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"YourCart\"]/following-sibling::android.view.ViewGroup/android.widget.Spinner/android.widget.TextView"
+		},
+		"CB_SelectPaymentOption": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Select Payment Option\"]/following-sibling::android.widget.Spinner/android.widget.TextView"
+		},
+		"CB_Monthly": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.CheckedTextView[@text=\"Monthly\"]"
+		},
+		"CB_One_Time": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.CheckedTextView[@text=\"One Time\"]"
+		},
+		"CB_Checkout": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Checkout\"]"
+		},
+		"CB_Your_order": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Your order\"]"
+		},
+		"CB_Proceed_To_Checkout": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Your order']/parent::android.view.View/parent::android.view.View/following-sibling::android.view.View//android.widget.Button"
+		},
+		"CB_Add_your_billing_address": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Add your billing address\"]"
+		},
+		"CB_First_Name": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.EditText[@resource-id=\"first_name\"]"
+		},
+		"CB_Last_Name": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.EditText[@resource-id=\"last_name\"]"
+		},
+		"CB_Address_Line1": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.EditText[@resource-id='line1']"
+		},
+		"CB_Address_Line2": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.EditText[@resource-id='line2']"
+		},
+		"CB_Address_Line3": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.EditText[@resource-id='line3']"
+		},
+		"CB_City": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.EditText[@resource-id='city']"
+		},
+		"CB_Zip": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.EditText[@resource-id='zip']"
+		},
+		"CB_Country": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.view.View[@text=\"Country\"]"
+		},
+		"CB_Countrylist": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.CheckedTextView[@text=\"India\"]"
+		},
+		"CB_State": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.view.View[@text=\"State\"]"
+		},
+		"CB_StateList": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.CheckedTextView[@text=\"Andhra Pradesh\"]"
+		},
+		"CB_Add_your_payment_details": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Add your payment details\"]"
+		},
+		"CB_Card_Number": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.view.View[@text=\"Card Number\"]"
+		},
+		"CB_Expiry": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.view.View[@text=\"Expiry\"]"
+		},
+		"CB_CVV_Optional": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.view.View[@text=\"CVV (Optional)\"]"
+		},
+		"CB_Valid_Card": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.view.View[@text=\"Valid Card 4242 4242 4242 4242\"]"
+		},
+		"CB_Complete_your_order": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.view.View[@text=\"Complete your order\"]"
+		},
+		"CB_Pay_subscribe": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\" Secure Checkout by Chargebee\"]/preceding-sibling::android.widget.Button"
+		},
+		"CB_Cancel": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.Button[@text=\"Cancel\"]"
+		},
+		"CB_messageinfo": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.Button[@text=\"Cancel\"]/parent::android.view.View/preceding-sibling::android.widget.TextView)[2]"
+		},
+		"CB_Diabetes_Care_Option": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Diabetes Care\"]/parent::android.view.ViewGroup/parent::android.view.ViewGroup/preceding-sibling::android.view.ViewGroup/android.view.ViewGroup"
+		},
+		"CB_Diabetes_Care_price": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Diabetes Care\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_Diabetes_Care_Details": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Diabetes Care\"]/parent::android.view.ViewGroup/parent::android.view.ViewGroup/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup/android.view.ViewGroup/android.widget.TextView[2]"
+		},
+		"CB_Cardiac_Care_Option": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Cardiac Care\"]/parent::android.view.ViewGroup/parent::android.view.ViewGroup/preceding-sibling::android.view.ViewGroup/android.view.ViewGroup"
+		},
+		"CB_Cardiac_Care_price": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Cardiac Care\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_Cardiac_Care_Details": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Cardiac Care\"]/parent::android.view.ViewGroup/parent::android.view.ViewGroup/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup/android.view.ViewGroup/android.widget.TextView[2]"
+		},
+		"CB_Take_care_of_your_loved_ones_from_miles_away": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Take care of your loved ones, from miles away.\"]"
+		},
+		"CB_Sign_Up_Now": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Sign Up Now\"]"
+		},
+		"CB_Sign_Up": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Sign Up\"]"
+		},
+		"CB_navigate_back_icon": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.ImageView)[1]"
+		},
+		"CB_General_Health_Read_More": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"General Health\"]//following-sibling::android.view.ViewGroup/android.widget.TextView"
+		},
+		"CB_Cardiac_Care_Read_More": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Cardiac Care\"]//following-sibling::android.view.ViewGroup/android.widget.TextView"
+		},
+		"CB_Bringinghealthcarerightatyourparentsdoorstep": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Bringing healthcare right at your parent's doorstep\"]"
+		},
+		"CB_User_Dashboard": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"User-Dashboard\"]"
+		},
+		"CB_Yourfathershealthreportatyourfingertips": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Your father's health report at your fingertips.\"]"
+		},
+		"CB_Virtual_Consultation": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Virtual Consultation\"]"
+		},
+		"CB_Participateinyourmothersnextconsultation": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Participate in your mother's next consultation.\"]"
+		},
+		"CB_Vitals": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Vitals\"]"
+		},
+		"CB_Stayinformedwithongoingmonitoring": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Stay informed with ongoing monitoring.\"]"
+		},
+		"CB_Why_choose_CureBay": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Why choose CureBay\"]"
+		},
+		"CB_Why_choose_CureBay_eClinic": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"eClinic\"]"
+		},
+		"CB_Why_choose_CureBay_Technology_platform": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Technology platform\"]"
+		},
+		"CB_Why_choose_CureBay_Consumer_application": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Consumer application\"]"
+		},
+		"CB_Why_choose_CureBay_Health_tech_devices": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Health tech devices\"]"
+		},
+		"CB_Why_choose_CureBay_Situation_room": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Situation room\"]"
+		},
+		"CB_Why_choose_CureBay_Network_providers": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Network providers\"]"
+		},
+		"CB_Happy_patients": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Happy patients\"]"
+		},
+		"CB_Happy_patients_count": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Happy patients\"]/preceding-sibling::android.widget.TextView"
+		},
+		"CB_eClinics_in_Odisha": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"eClinics in Odisha\"]"
+		},
+		"CB_eClinics_in_Odisha_count": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"eClinics in Odisha\"]/preceding-sibling::android.widget.TextView"
+		},
+		"CB_Specialities": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Specialities\"]"
+		},
+		"CB_Specialities_count": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Specialities\"]/preceding-sibling::android.widget.TextView"
+		},
+		"CB_Service_providers": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Service providers\"]"
+		},
+		"CB_Service_providers_count": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Service providers\"]/preceding-sibling::android.widget.TextView"
+		},
+		"CB_Villages_and_towns_covered": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Villages and towns covered\"]"
+		},
+		"CB_Villages_and_towns_covered_count": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Villages and towns covered\"]/preceding-sibling::android.widget.TextView"
+		},
+		"CB_Book_for_a_free_screening_session_now": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Book for a free screening session now\"]"
+		},
+		"CB_Bookforafreehealthassessmentforyourparentswhichwillhelpyouchoosethebestcareplanforthem": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Book for a free health assessment for your parents which will help you choose the best care-plan for them.\"]"
+		},
+		"CB_Explore_our_healthcare_plans": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Explore our healthcare plans\"]"
+		},
+		"CB_Book_Now": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Book Now\"]"
+		},
+		"CB_New_Booking": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"New Booking\"]"
+		},
+		"CB_BOOK_NOW": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.Button[@text=\"BOOK NOW\"]"
+		},
+		"CB_Book_for_your_Pre_Counselling": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Book for your Pre-Counselling!\"]"
+		},
+		"CB_Add_Care_Giver_details_name_text_box": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Add Care Giver details:\"]/following-sibling::android.view.ViewGroup//android.widget.EditText)[1]"
+		},
+		"CB_Add_Care_Giver_details_country_code_dropdown": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Add Care Giver details:\"]//following-sibling::android.view.ViewGroup)[2]/android.view.ViewGroup[1]"
+		},
+		"CB_text_input_country_filter": {
+			"locatorType": "ID",
+			"locatorValue": "text-input-country-filter"
+		},
+		"CB_text_Enter_country_name": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.EditText[@text=\"Enter country name\"]"
+		},
+		"CB_country_India_91": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"India (+91)\"]"
+		},
+		"CB_Add_Care_Giver_details_Phone_Number": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Add Care Giver details:\"]//following-sibling::android.view.ViewGroup)[2]/android.view.ViewGroup//android.widget.EditText[@text=\"Phone Number\"]"
+		},
+		"CB_Add_Care_Giver_details_Email_Address": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Add Care Giver details:\"]//following-sibling::android.view.ViewGroup[3]/android.widget.EditText"
+		},
+		"CB_Care_Receiver_details_name_text_box": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Care Receiver details:\"]//following-sibling::android.view.ViewGroup/android.widget.EditText)[1]"
+		},
+		"CB_Select_relation": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Select relation\"]"
+		},
+		"CB_Select_relation_cancel": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"cancel\"]"
+		},
+		"CB_Select_relation_Self": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Self\"]"
+		},
+		"CB_Care_Receiver_details_country_code_dropdown": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Care Receiver details:\"]//following-sibling::android.view.ViewGroup)[3]/android.view.ViewGroup[1]"
+		},
+		"CB_Care_Receiver_details_Phone_Number": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Care Receiver details:\"]//following-sibling::android.view.ViewGroup//android.widget.EditText[@text=\"Phone Number\"]"
+		},
+		"CB_Care_Receiver_details_Location": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Location\"]/following-sibling::android.view.ViewGroup/android.widget.EditText"
+		},
+		"CB_Send_Inquiry": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Send Inquiry\"]"
+		},
+		"CB_Book_android_message": {
+			"locatorType": "ID",
+			"locatorValue": "android:id/message"
+		},
+		"CB_Book_OK": {
+			"locatorType": "ID",
+			"locatorValue": "android:id/button1"
+		},
+		"CB_Add_More_Member": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\" + Add More Member\"]"
+		},
+		"CB_Add_More_Member_Remove": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Remove\"]"
+		},
+		"CB_alertTitle": {
+			"locatorType": "ID",
+			"locatorValue": "android:id/alertTitle"
+		},
+		"CB_Frequently_Asked_Questions": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Frequently Asked Questions\"]"
+		},
+		"CB_QWhatisPreAssessment": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Q. What is Pre-Assessment?\"]"
+		},
+		"CB_QWhatisPreAssessmentAnswer": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Q. What is Pre-Assessment?\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_QWhatisHealthAssessment": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Q. What is Health-Assessment?\"]"
+		},
+		"CB_QWhatisHealthAssessmentAnswer": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Q. What is Health-Assessment?\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_WhatisPreAssessment": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"What is Pre-Assessment?\"]"
+		},
+		"CB_WhatisPreAssessmentAnswer": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"What is Pre-Assessment?\"]/parent::android.view.ViewGroup/parent::android.view.ViewGroup/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup//android.widget.TextView"
+		},
+		"CB_WhatisHealthAssessment": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"What is Health-Assessment?\"]"
+		},
+		"CB_WhatisHealthAssessmentAnswer": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"What is Health-Assessment?\"]/parent::android.view.ViewGroup/parent::android.view.ViewGroup/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup//android.widget.TextView"
+		},
+		"CB_Canweoptoutifwehavechosenamonthlypayout": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Can we opt-out if we have chosen a monthly pay-out?\"]"
+		},
+		"CB_CanweoptoutifwehavechosenamonthlypayoutAnswer": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Can we opt-out if we have chosen a monthly pay-out?\"]/parent::android.view.ViewGroup/parent::android.view.ViewGroup/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup//android.widget.TextView"
+		},
+		"CB_CanIrescheduletheappointment": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Can I re-schedule the appointment?\"]"
+		},
+		"CB_CanIrescheduletheappointmentAnswer": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Can I re-schedule the appointment?\"]/parent::android.view.ViewGroup/parent::android.view.ViewGroup/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup//android.widget.TextView"
+		},
+		"CB_WillIbeabletodoaphysicaldoctorconsultation": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Will I be able to do a physical doctor consultation?\"]"
+		},
+		"CB_WillIbeabletodoaphysicaldoctorconsultationAnswer": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Will I be able to do a physical doctor consultation?\"]/parent::android.view.ViewGroup/parent::android.view.ViewGroup/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup//android.widget.TextView"
+		},
+		"CB_Canwedoanylabtestsbasedonourcustomrequirements": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Can we do any lab tests based on our custom requirements?\"]"
+		},
+		"CB_CanwedoanylabtestsbasedonourcustomrequirementsAnswer": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Can we do any lab tests based on our custom requirements?\"]/parent::android.view.ViewGroup/parent::android.view.ViewGroup/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup//android.widget.TextView"
+		},
+		"CB_Whatallcanbetrackedonthedashboard": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"What all can be tracked on the dashboard?\"]"
+		},
+		"CB_WhatallcanbetrackedonthedashboardAnswer": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"What all can be tracked on the dashboard?\"]/parent::android.view.ViewGroup/parent::android.view.ViewGroup/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup//android.widget.TextView"
+		},
+		"CB_WhataretheOnDemandServices": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"What are the On Demand Services?\"]"
+		},
+		"CB_WhataretheOnDemandServicesAnswer": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"What are the On Demand Services?\"]/parent::android.view.ViewGroup/parent::android.view.ViewGroup/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup//android.widget.TextView"
+		},
+		"CB_CanIchoosemorethanoneplanifIhave2diseases": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Q. Can I choose more than one plan if I have 2 diseases?\"]"
+		},
+		"CB_Yesyoucanchoosemorethanoneplan": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Yes you can choose more than one plan..\"]"
+		},
+		"CB_FormoreanswersreadourFAQPage": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"For more answers read our FAQ Page\"]"
+		},
+		"CB_FAQ": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"FAQ\"]"
+		},
+		"CB_CanIchoosemorethanoneplanifIhave2ChronicConditions": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Can I choose more than one plan if I have 2 Chronic Conditions?\"]"
+		},
+		"CB_CanIchoosemorethanoneplanifIhave2ChronicConditionsrelaventanswer": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Can I choose more than one plan if I have 2 Chronic Conditions?\"]/parent::android.view.ViewGroup/parent::android.view.ViewGroup/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup//android.widget.TextView"
+		},
+		"CB_CanIusethesameaccountformorethanonefamilymember": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Can I use the same account for more than one family member?\"]"
+		},
+		"CB_CanIusethesameaccountformorethanonefamilymemberrelaventanswer": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Can I use the same account for more than one family member?\"]/parent::android.view.ViewGroup/parent::android.view.ViewGroup/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup//android.widget.TextView"
+		},
+		"CB_HowdoImakethepayment": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"How do I make the payment?\"]"
+		},
+		"CB_HowdoImakethepaymentrelaventanswer": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"How do I make the payment?\"]/parent::android.view.ViewGroup/parent::android.view.ViewGroup/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup//android.widget.TextView"
+		},
+		"CB_DoIneedtosubmitanydocuments": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Do I need to submit any documents?\"]"
+		},
+		"CB_DoIneedtosubmitanydocumentsrelaventanswer": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Do I need to submit any documents?\"]/parent::android.view.ViewGroup/parent::android.view.ViewGroup/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup//android.widget.TextView"
+		},
+		"CB_Ismydatasafe": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Is my data safe?\"]"
+		},
+		"CB_Ismydatasaferelaventanswer": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Is my data safe?\"]/parent::android.view.ViewGroup/parent::android.view.ViewGroup/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup//android.widget.TextView"
+		},
+		"CB_Is_the_support_team_available_24_7": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Is the support team available 24*7?\"]"
+		},
+		"CB_Is_the_support_team_available_24_7relaventanswer": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Is the support team available 24*7?\"]/parent::android.view.ViewGroup/parent::android.view.ViewGroup/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup//android.widget.TextView"
+		},
+		"CB_HowcanIcancelmymembership": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"How can I cancel my membership?\"]"
+		},
+		"CB_HowcanIcancelmymembershiprelaventanswer": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"How can I cancel my membership?\"]/parent::android.view.ViewGroup/parent::android.view.ViewGroup/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup//android.widget.TextView"
+		},
+		"CB_YourCart_Detatils": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"YourCart\"]"
+		},
+		"CB_YourCart_Detailsinfo": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"YourCart\"]/following-sibling::android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.TextView"
+		},
+		"CB_YourCart_Payment_Details": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Payment Details\"]"
+		},
+		"CB_YourCart_Payment_Detailsinfo": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Payment Details\"]/following-sibling::android.widget.TextView"
+		},
+		"CB_Add_Member": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Add Member\"]"
+		},
+		"CB_Check_medicare": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Check medicare\"]"
+		},
+		"CB_servicesneartoyourparentsarea": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"services near to your parents area.\"]"
+		},
+		"CB_enters_Pincode": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.EditText[@text='Enter Pincode']"
+		},
+		"CB_Check": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Check']"
+		},
+		"CB_Check_medicare_ErrorMessage": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Check medicare\"]/following-sibling::android.widget.TextView)[2]"
+		},
+		"CB_Check_medicare_Chennai": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Chennai\"]"
+		},
+		"CB_Check_medicare_Zipcode600016": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Zipcode- 600016\"]"
+		},
+		"CB_Check_medicare_EclinicNameECLINICCHENNAI": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Eclinic Name- ECLINIC-CHENNAI\"]"
+		},
+		"CB_Saluation_dropdown": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Saluation*\"]/following-sibling::android.view.ViewGroup/android.view.ViewGroup"
+		},
+		"CB_Saluation_Mr": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Mr\"]"
+		},
+		"CB_firstName": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.EditText[@text=\"firstName\"]"
+		},
+		"CB_lastName": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.EditText[@text=\"lastName\"]"
+		},
+		"CB_Blood_Group_dropdown": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Blood Group*\"]/following-sibling::android.view.ViewGroup/android.view.ViewGroup"
+		},
+		"CB_Blood_Group_dropdown_B": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"B+\"]"
+		},
+		"CB_Relation_dropdown": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Relation*\"]/following-sibling::android.view.ViewGroup/android.view.ViewGroup)[1]"
+		},
+		"CB_Relation_Self": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Self\"]"
+		},
+		"CB_Relation_Others": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Others\"]"
+		},
+		"CB_Gender_dropdown": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Gender*\"]/following-sibling::android.view.ViewGroup/android.view.ViewGroup"
+		},
+		"CB_Gender_Male": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Male\"]"
+		},
+		"CB_Country_dropdown": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Mobile Number*\"]/following-sibling::android.view.ViewGroup/android.view.ViewGroup)[1]"
+		},
+		"CB_State_dropdown": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"State*\"]/following-sibling::android.view.ViewGroup/android.view.ViewGroup)[1]"
+		},
+		"CB_Phone_Number": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.EditText[@text='Phone Number']"
+		},
+		"CB_Tamil_Nadu": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Tamil Nadu']"
+		},
+		"CB_Emergency_Contact_Number": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.EditText[@text='Emergency Contact Number']"
+		},
+		"CB_Email_Address": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.EditText[@text='Email Address']"
+		},
+		"CB_Enter_Address": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.EditText[@text='Enter Address']"
+		},
+		"CB_Enter_Locality_Town": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.EditText[@text='Enter Locality/Town']"
+		},
+		"CB_Enter_Pincode": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.EditText[@text='Enter Pincode']"
+		},
+		"CB_Enter_City": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.EditText[@text='Enter City']"
+		},
+		"CB_Enter_State": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.EditText[@text='Enter State']"
+		},
+		"CB_Save_Member": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Save Member']"
+		},
+		"CB_Smartphoneaccessavailableforuser": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Smartphone access available for user.']/preceding-sibling::android.widget.CheckBox"
+		},
+		"CB_GeneralHealthCareValidityDays": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text='General Health Care']/following-sibling::android.widget.TextView)[1]"
+		},
+		"CB_GeneralHealthCareViewDetails": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='View Details']"
+		},
+		"CB_Plan_Details": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Plan Details']"
+		},
+		"CB_DetailedbaselineevaluationsymptomaticcareNurse_short_note": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Detailed baseline evaluation & symptomatic care - Nurse\"]/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup/android.widget.TextView)[2]"
+		},
+		"CB_DetailedbaselineevaluationsymptomaticcareLabtest_short_note": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Detailed baseline evaluation & symptomatic care - Lab test\"]/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup/android.widget.TextView)[2]"
+		},
+		"CB_CompletehealthreviewcarebyOrthopedician_short_note": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Complete health review & care by Orthopedician \"]/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup/android.widget.TextView)[2]"
+		},
+		"CB_Specialty_care_and_referral_short_note": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Specialty care and referral\"]/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup/android.widget.TextView)[2]"
+		}
+		,
+		"CB_Periodic_online_follow_ups_and_care_short_note": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Periodic online follow-ups and care\"]/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup/android.widget.TextView)[2]"
+		},
+		"CB_Physiotherapy_short_note": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Physiotherapy\"]/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup/android.widget.TextView)[2]"
+		},
+		"CB_Paramedical_care_Nutritionistr_short_note": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Paramedical care - Nutritionist\"]/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup/android.widget.TextView)[2]"
+		},
+		"CB_Paramedical_care_Health_Educator_short_note": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Paramedical care - Health Educator\"]/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup/android.widget.TextView)[2]"
+		},
+		"CB_Paramedical_care_In_Person_Nurse_visit_short_note": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Paramedical care - In-Person Nurse visit\"]/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup/android.widget.TextView)[2]"
+		},
+		"CB_Comprehensive_quarterly_care_by_the_physician_short_note": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Comprehensive quarterly care by the physician\"]/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup/android.widget.TextView)[2]"
+		},
+		"CB_6_monthly_lab_tests_short_note": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"6 monthly lab tests\"]/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup/android.widget.TextView)[2]"
+		},
+		"CB_In_Person_Nurse_visit_short_note": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"In-Person Nurse visit\"]/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup/android.widget.TextView)[2]"
+		},
+		"CB_Annual_outcome_lab_tests_short_note": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Annual outcome - lab tests\"]/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup/android.widget.TextView)[2]"
+		}
+		,
+		"CB_Annual_outcome_In_Person_Nurse_visit_short_note": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Annual outcome - In-Person Nurse visit\"]/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup/android.widget.TextView)[2]"
+		},
+		"CB_Annual_outcome_General_Physician_short_note": {
+			"locatorType": "XPath",
+			"locatorValue": "(//android.widget.TextView[@text=\"Annual outcome - General Physician\"]/parent::android.view.ViewGroup/following-sibling::android.view.ViewGroup/android.widget.TextView)[2]"
+		},
+		"cb_Why_choose_CureBay_Holistic_care_plans": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Holistic care plans\"]"
+		},
+		"cb_Why_choose_CureBay_Always_stay_updated": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Always stay updated\"]"
+		}
+		,
+		"cb_Why_choose_CureBay_Achieve_health_goals": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Achieve health goals\"]"
+		},
+		"cb_Why_choose_CureBay_Round_the_clock_access": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Round the clock access\"]"
+		},
+		"cb_Why_choose_CureBay_Situation_room": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Situation room\"]"
+		},
+		"cb_Why_choose_CureBay_Advanced_technology": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text=\"Advanced technology\"]"
+		}
+	},
+	"Mobile_CB_Login": {
+		"Curebay_Login": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Login / Sign-up']"
+		},
+		"Curebay_Login_Page": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Login']"
+		},
+		"Curebay_Email_Or_Mobile_Number": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.EditText[@text='Email or Mobile Number']"
+		},
+		"Curebay_Enter_Password": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.EditText[@text='Enter Password']"
+		},
+		"Curebay_Next_Button": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Next']"
+		},
+		"Curebay_Select_Member_Page": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Select a member to see their']"
+		},
+		"Curebay_Forgot_Password": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Forgot Password ?']"
+		},
+		"Curebay_Email_Address": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.EditText[@text='Email Address']"
+		},
+		"Curebay_Forgot_Password_Page": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Forgot Password']"
+		},
+		"Curebay_Enter_Otp": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Enter your OTP']"
+		},
+		"Curebay_Resend_OTP": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@text='Resend OTP']"
+		},
+		"Curebay_Alert": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.TextView[@resource-id='android:id/alertTitle']"
+		},
+		"CB_next_btn2": {
+			"locatorType": "XPath",
+			"locatorValue": "//android.widget.Button[@text=\"Next\"]"
+		}
+	}
+}

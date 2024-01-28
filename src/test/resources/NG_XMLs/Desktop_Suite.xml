@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite" thread-count="2" parallel="tests">
+	<test name="Android native app test on Android 10">
+		<parameter name="platform" value="Android 11"/>
+        <parameter name="udid" value="380b98ec1b057ece"/>
+        <parameter name="systemPort" value="4723"/>
+        <parameter name="deviceName" value="Mydevice"/>
+        	<classes>
+			<!-- <class name="AndroidTestCases.AndroidNativeParallelTests" /> -->
+			<class name="com.kfh.bdd.common.runner.DesktopRunner" />
+		    <!--<class name="com.kfh.bdd.common.runner.DesktopRunnerFailed" />-->
+
+		</classes>
+	</test>
+</suite> <!-- Suite -->
